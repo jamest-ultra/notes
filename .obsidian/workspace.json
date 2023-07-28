@@ -100,7 +100,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -162,14 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21ef8fb2ed953099",
+  "active": "14ccc017ec71acd2",
   "lastOpenFiles": [
-    "ultraportal/docs/AWS Terminal Tutorial.md",
-    "Untitled.md",
-    "ultraportal/testing/importer testing/fleet-costs-importing.md",
-    "ultraportal/docs/templates/Obsidian Note-taking Template.md",
+    "ultraportal/public/csv's/~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/testing/importer testing/tco-importing.md",
+    "ultraportal/testing/importer testing/fleet-costs-importing.md",
+    "ultraportal/docs/AWS Terminal Tutorial.md",
+    "Untitled.md",
+    "ultraportal/docs/templates/Obsidian Note-taking Template.md",
     "ultraportal/public/csv's/uk_roi_test_file.csv",
     "ultraportal/public/csv's/test-cost-import.csv",
     "ultraportal/public/csv's/Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",

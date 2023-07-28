@@ -1,6 +1,6 @@
 ### Cost importing:
 
-Choose a descriptive title for your note
+This page serves as a guide for testing the importer functionality related to cost importing. The testing process is dated [[#Date]] and revolves around evaluating the effectiveness and accuracy of the cost importing feature. The page is organized into several sections for easy navigation.
 
 ### Date:
 
@@ -8,7 +8,7 @@ Choose a descriptive title for your note
 
 ### Tags:
 
-[[importer]] [[cost-importing]]
+[[importer]] 
 
 ### Summary:
 
@@ -17,9 +17,6 @@ This testing will cover the importer test for costs.
 ### Table of Contents:
 
 - [[#Notes]]
-- 
-
-- [[#Additional Notes/Comments]]
 - [[#Related Notes]]
 - [[#References]]
 - [[#Backlinks]]
@@ -27,27 +24,54 @@ This testing will cover the importer test for costs.
 
 ### Notes
 
-When importing the costs for cost import you'll need to first start with the file.
+When importing the costs for cost import you'll need to first start with the file. I've attached the test files bellow [[#Attachments]].  
 
+	We need:
+	- Reg
+	- Vin
+	- Company code
+	- Group code
+	- Supplier code
 
-### Additional Notes/Comments:
+- If the supplier isn't found it'll create a new one.
+- Multilease suppliers
+- Cost group code
+- Group has to be part of the company
+- Only need to specify the company. The rest will be read from the spreadsheet.
 
-[[Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx]]
+	- Select company on next page
+	- group = cost group code 
+	- group code = group code 
+	- vehicle = vrn
+	- supplier = provider
+
+- transaction reference
+- Select company.
+- Match field with fields in database
+- Find something with code or "name" - code 
+- vehicle always maps to licence plate number
+- supplier = name
+
+#### Areas to cover:
+
+```text
+compare file with transaction
+
+compare file with transaction links
+```
 
 ### Related Notes:
 
-List any related notes or backlinks to other notes within your Obsidian vault
+none.
 
 ### References:
 
-List any external sources or references used in this note, such as articles, books, websites, etc.
+[staging ultraportal](https://staging.ultraportal.co.uk/secure/dashboard)
 
 ### Backlinks:
 
-List any other notes that link to this particular note
+none
 
 ### Attachments:
 
-If applicable, list any attachments or files associated with this note
-
-Feel free to customize this template to suit your specific note-taking needs and preferences. Obsidian is a versatile tool, so you can adapt this template as you see fit to create a note-taking system that works best for you. The key is to make your notes organized, easy to navigate, and interconnected to enhance your knowledge management and understanding of various topics.
+![[Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx]]

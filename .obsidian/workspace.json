@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9cd853baae83ac74",
+        "id": "ceba4d0896840d8e",
         "type": "tabs",
         "children": [
           {
-            "id": "5018b879f01caae4",
+            "id": "9b2a0e5a1a1d99e7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "ultraportal/testing/cost-importing.md",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -68,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
     "id": "d05e26196024cdc3",
@@ -149,25 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5018b879f01caae4",
+  "active": "9b2a0e5a1a1d99e7",
   "lastOpenFiles": [
+    "ultraportal/testing/inventory-importing.md",
     "ultraportal/testing/cost-importing.md",
+    "uk_roi_test_file.csv",
+    "ultraportal/testing/tco-importing.md",
+    "Brighton fuel 1.csv",
+    "Brighton fuel.csv",
+    "ultraportal/public/importer-files/~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
+    "importer.md",
+    "staging.ultraportal.co.uk/secure/dashboard.md",
+    "staging.ultraportal.co.uk/secure",
+    "staging.ultraportal.co.uk",
     "ultraportal/public/importer-files/Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "ultraportal/public/importer-files",
     "ultraportal/public",
-    "Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
-    "ultraportal/testing/inventory-importing.md",
     "ultraportal/docs/Obsidian Note-taking Template.md",
-    "ultraportal/testing/tco-importing.md",
     "Untitled.md",
     "Untitled.canvas",
     "2023-07-28.md",
-    "ultraportal/docs",
-    "ultraportal/testing",
-    "ultraportal/meetings",
-    "ultraportal/Untitled.canvas",
-    "ultraportal/staging",
-    "ultraportal/prod"
+    "ultraportal/Untitled.canvas"
   ]
 }

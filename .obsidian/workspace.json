@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "699500522ecdc254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a9fc30cce28bbfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ultraportal/testing/importer testing/tco-importing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "d05e26196024cdc3",
@@ -109,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ultraportal/testing/importer testing/inventory-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ultraportal/testing/importer testing/inventory-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ultraportal/testing/importer testing/inventory-importing.md"
+              }
             }
           },
           {
@@ -162,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 391.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +198,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d83e8401be92d49",
+  "active": "3e77ef7d1390b19f",
   "lastOpenFiles": [
+    "ultraportal/testing/importer testing/tco-importing.md",
     "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/testing/importer testing/fleet-costs-importing.md",
     "ultraportal/public/images/Pasted image 20230728133656.png",
     "ultraportal/public/images/Pasted image 20230728141738.png",
-    "ultraportal/testing/importer testing/tco-importing.md",
     "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
     "ultraportal/public/images/Pasted image 20230728142116.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png",

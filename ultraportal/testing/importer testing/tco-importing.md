@@ -35,6 +35,11 @@ When importing the costs for cost import you'll need to first start with the fil
 
 #### Areas to cover:
 
+```mermaid
+flowchart TD
+A[Take file] --> B[Check file] --> C[Run through import] --> D[Compare file with transactions] --> E[Compare file with transaction links]
+```
+
 ```text
 compare file with item
 

@@ -34,9 +34,9 @@ When importing the costs for cost import you'll need to first start with the fil
 	- Supplier code
 
 body style = type 
-Company = select company
+company = select company
 group = group code
-vehicle = licenceplate 
+vehicle = licence plate 
 number = name
 currency code = code
 

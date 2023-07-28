@@ -40,12 +40,7 @@ vehicle = licenceplate
 number = name
 currency code = code
 
-<details>
-<summary>Transaction fields to import</summary>
-<ul>
-<li></li> 
-</ul>
-</details>
+[[#Mapping image]]
 
 After the import you'll need to run the job on [[AWS Terminal Tutorial]]
 
@@ -87,3 +82,7 @@ none
 ![[uk_roi_test_file.csv]]
 
 ##### Test file:
+
+##### Mapping image:
+
+![[screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png]]

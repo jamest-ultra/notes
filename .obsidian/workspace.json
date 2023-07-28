@@ -11,12 +11,8 @@
             "id": "68b1a01efc6fd3fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,15 +148,15 @@
   },
   "active": "68b1a01efc6fd3fe",
   "lastOpenFiles": [
-    "ultraportal/testing/importer testing/tco-importing.md",
     "ultraportal/testing/importer testing/fleet-costs-importing.md",
+    "~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
+    "ultraportal/testing/importer testing/tco-importing.md",
     "ultraportal/docs/templates/Obsidian Note-taking Template.md",
     "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/meetings/tem.md",
     "ultraportal/docs/templates",
     "3C759000",
     "test-cost-import.csv",
-    "~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "ultraportal/testing/importer testing",
     "uk_roi_test_file.csv",
     "Brighton fuel 1.csv",

@@ -41,32 +41,48 @@ When importing the costs for cost import you'll need to first start with the fil
 
 <details>
 <summary>Transaction fields to import</summary>
-<br>
-Mapping name 
-/ Unique key 
-/ Gross 
-/ Net 
-/ Vat 
-/ Vat rate 
-/ Total 
-/ Client number
-/Client country
-/Invoice number
-/Vrn
-/Vin
-/Invoice date
-/Invoice line code
-/Invoice line description
-/Group code
-/ Cost group code
-/ Provider Company 
-/ mapping
-/ company = select on the next page
-/ cost Group = cost group code
-/ group = group code
-/ vehicle = vrn
-/ supplier = provider
-/ currency = select on next page
+<ul>
+<li>Mapping name</li> 
+<li>Unique key</li> 
+<li>Gross</li>
+<li>Net</li>  
+<li>Vat</li>  
+<li>Vat rate</li>  
+<li>Total</li>  
+<li>Client number</li> 
+<li>Client country</li> 
+<li>Invoice number</li> 
+<li>Vrn</li> 
+<li>Vin</li> 
+<li>Invoice date</li> 
+<li>Invoice line code</li> 
+<li>Invoice line description</li> 
+<li>Group code</li> 
+<li>Cost group code</li> 
+<li>Provider Company</li>  
+<li>mapping</li> 
+<li>company = select on the next page</li> 
+<li>cost Group = cost group code</li> 
+<li>group = group code</li> 
+<li>vehicle = vrn</li> 
+<li>supplier = provider</li> 
+<li>currency = select on next page</li> 
+</ul>
+</details>
+
+<details>
+<summary>Match transaction fields with unique identifiers</summary>
+<ul>
+<li>select transaction primary key or unique key field = transaction reference</li>
+<li>select on provider company mapping item = default-provider</li>
+<li>Select one company item = "Select the company"</li>
+<li>Select costGroup = code</li>
+<li>Select group = GroupCode</li>
+<li>Select vehicle = licenseplatenumber</li>
+<li>Select costGroup = code</li>
+<li>Select supplier = code</li>
+<li>Select one currency item = GBP</li>
+</ul>
 </details>
 
 - transaction reference

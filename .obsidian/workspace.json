@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ceba4d0896840d8e",
+        "id": "2f6c7bd0e50fe9f8",
         "type": "tabs",
         "children": [
           {
-            "id": "9b2a0e5a1a1d99e7",
+            "id": "e08e8365c6402e71",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ultraportal/testing/importer testing/cost-importing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ultraportal/testing/importer testing/cost-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ultraportal/testing/importer testing/cost-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ultraportal/testing/importer testing/cost-importing.md"
+              }
             }
           },
           {
@@ -146,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b2a0e5a1a1d99e7",
+  "active": "e08e8365c6402e71",
   "lastOpenFiles": [
-    "ultraportal/testing/inventory-importing.md",
-    "ultraportal/testing/cost-importing.md",
+    "ultraportal/testing/importer testing/cost-importing.md",
+    "ultraportal/testing/importer testing",
+    "ultraportal/testing/importer testing/inventory-importing.md",
     "uk_roi_test_file.csv",
-    "ultraportal/testing/tco-importing.md",
+    "ultraportal/testing/importer testing/tco-importing.md",
     "Brighton fuel 1.csv",
     "Brighton fuel.csv",
     "ultraportal/public/importer-files/~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
@@ -162,7 +171,6 @@
     "staging.ultraportal.co.uk",
     "ultraportal/public/importer-files/Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "ultraportal/public/importer-files",
-    "ultraportal/public",
     "ultraportal/docs/Obsidian Note-taking Template.md",
     "Untitled.md",
     "Untitled.canvas",

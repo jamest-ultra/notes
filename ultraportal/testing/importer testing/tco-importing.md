@@ -33,6 +33,8 @@ When importing the costs for cost import you'll need to first start with the fil
 	- Group code
 	- Supplier code
 
+- After the import you'll need to run the job on [[AWS Terminal Tutorial]]
+
 #### Areas to cover:
 
 ```mermaid
@@ -62,4 +64,11 @@ none
 
 ### Attachments:
 
+#### File provided by john:
+
 ![[Brighton fuel.csv]]
+
+#### Test file:
+
+![[test-fuel-import.csv]]
+#### Mapping image:

@@ -1,3 +1,7 @@
 {
-  "accentColor": "#db76c8"
+  "accentColor": "#db76c8",
+  "baseFontSize": 15,
+  "translucency": true,
+  "nativeMenus": false,
+  "theme": "obsidian"
 }

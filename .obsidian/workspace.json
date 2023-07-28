@@ -11,8 +11,12 @@
             "id": "68b1a01efc6fd3fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ultraportal/testing/importer testing/tco-importing.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ultraportal/testing/importer testing/tco-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ultraportal/testing/importer testing/tco-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ultraportal/testing/importer testing/tco-importing.md"
+              }
             }
           },
           {
@@ -146,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14ccc017ec71acd2",
+  "active": "68b1a01efc6fd3fe",
   "lastOpenFiles": [
+    "ultraportal/testing/importer testing/fleet-costs-importing.md",
     "ultraportal/docs/templates/Obsidian Note-taking Template.md",
     "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/testing/importer testing/tco-importing.md",
-    "ultraportal/testing/importer testing/fleet-costs-importing.md",
     "ultraportal/meetings/tem.md",
     "ultraportal/docs/templates",
     "3C759000",

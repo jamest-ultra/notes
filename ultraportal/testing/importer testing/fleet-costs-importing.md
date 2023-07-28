@@ -1,4 +1,4 @@
-### Cost importing:
+### Fleet costs importing:
 
 This page serves as a guide for testing the importer functionality related to cost importing. The testing process is dated [[#Date]] and revolves around evaluating the effectiveness and accuracy of the cost importing feature. The page is organized into several sections for easy navigation.
 
@@ -54,11 +54,11 @@ When importing the costs for cost import you'll need to first start with the fil
 
 #### Areas to cover:
 
-```text
-compare file with transaction
-
-compare file with transaction links
+```mermaid
+flowchart TD
+A[Take file] --> B[Check file] --> C[Run through import] --> D[Compare file with transactions] --> E[Compare file with transaction links]
 ```
+
 
 ### Related Notes:
 
@@ -74,4 +74,9 @@ none
 
 ### Attachments:
 
+File provided by john:
+
 ![[Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx]]
+
+Test file:
+![[test-cost-import.csv]]

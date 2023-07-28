@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6bb2c977a3c6ee4b",
+        "id": "5c704e9d2a39da0d",
         "type": "tabs",
         "children": [
           {
-            "id": "1d83e8401be92d49",
+            "id": "3e77ef7d1390b19f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ultraportal/testing/importer testing/inventory-importing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,8 +80,24 @@
     "type": "split",
     "children": [
       {
+        "id": "4ba23aa4815eecc0",
+        "type": "tabs",
+        "dimension": 57.65503875968992,
+        "children": [
+          {
+            "id": "1d83e8401be92d49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "53223e00ad172abe",
         "type": "tabs",
+        "dimension": 42.34496124031008,
         "children": [
           {
             "id": "4641a438842e3ffc",
@@ -93,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ultraportal/testing/importer testing/inventory-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ultraportal/testing/importer testing/inventory-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ultraportal/testing/importer testing/inventory-importing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,22 +152,13 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "aebfcc3a170deb0c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 449.5,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +172,8 @@
   },
   "active": "1d83e8401be92d49",
   "lastOpenFiles": [
-    "ultraportal/testing/importer testing/fleet-costs-importing.md",
     "ultraportal/testing/importer testing/inventory-importing.md",
+    "ultraportal/testing/importer testing/fleet-costs-importing.md",
     "ultraportal/public/images/Pasted image 20230728142116.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",

@@ -92,6 +92,7 @@ When importing the costs for cost import you'll need to first start with the fil
 - vehicle always maps to licence plate number
 - supplier = name
 
+After the import you'll need to run the job on [[AWS Terminal Tutorial]]
 #### Areas to cover:
 
 ```mermaid
@@ -115,8 +116,22 @@ none
 ### Attachments:
 
 File provided by john:
+	The company needs the group setup and the vehicle and drivers to work.
 
 ![[Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx]]
 
 Test file:
+
+Best to use the test file.
+
+To use the test file you'll need to setup two groups within demo.
+- Brighton
+- Portsmouth
+
 ![[test-cost-import.csv]]
+
+return:
+
+![[Pasted image 20230728133656.png]]
+
+![[Pasted image 20230728133726.png]]

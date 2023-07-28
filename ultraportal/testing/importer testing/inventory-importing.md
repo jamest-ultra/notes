@@ -87,4 +87,4 @@ none
 
 ##### Mapping image:
 
-![[screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png]]
+![[screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png]]

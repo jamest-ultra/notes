@@ -11,8 +11,12 @@
             "id": "3e77ef7d1390b19f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ultraportal/testing/importer testing/inventory-importing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,12 +92,8 @@
             "id": "1d83e8401be92d49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,20 +176,20 @@
   },
   "active": "1d83e8401be92d49",
   "lastOpenFiles": [
-    "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
     "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/testing/importer testing/fleet-costs-importing.md",
+    "ultraportal/public/images/Pasted image 20230728133656.png",
+    "ultraportal/public/images/Pasted image 20230728141738.png",
+    "ultraportal/testing/importer testing/tco-importing.md",
+    "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
     "ultraportal/public/images/Pasted image 20230728142116.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 2.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 3.png",
-    "ultraportal/public/images/Pasted image 20230728141738.png",
     "ultraportal/public/images/Pasted image 20230728133726.png",
-    "ultraportal/public/images/Pasted image 20230728133656.png",
     "ultraportal/public/csv's/test-inventory-import.csv",
     "ultraportal/public/csv's/~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
-    "ultraportal/testing/importer testing/tco-importing.md",
     "ultraportal/docs/AWS Terminal Tutorial.md",
     "Untitled.md",
     "ultraportal/docs/templates/Obsidian Note-taking Template.md",

@@ -40,7 +40,21 @@ vehicle = licenceplate
 number = name
 currency code = code
 
+<details>
+<summary>Transaction fields to import</summary>
+<ul>
+<li></li> 
+</ul>
+</details>
+
+After the import you'll need to run the job on [[AWS Terminal Tutorial]]
+
 #### Areas to cover:
+
+```mermaid
+flowchart TD
+A[Take file] --> B[Check file] --> C[Run through import] --> D[Compare file with transactions] --> E[Compare file with transaction links]
+```
 
 ```text
 compare file with inventory item
@@ -67,5 +81,9 @@ none.
 none
 
 ### Attachments:
+##### File provided by john:
+	The company needs the group setup and the vehicle and drivers to work.
 
 ![[uk_roi_test_file.csv]]
+
+##### Test file:

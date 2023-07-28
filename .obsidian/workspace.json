@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc66d2ba9700abf9",
+        "id": "6bb2c977a3c6ee4b",
         "type": "tabs",
         "children": [
           {
-            "id": "aebfcc3a170deb0c",
+            "id": "1d83e8401be92d49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md",
+                "file": "ultraportal/testing/importer testing/inventory-importing.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "d05e26196024cdc3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md",
+                "file": "ultraportal/testing/importer testing/inventory-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md",
+                "file": "ultraportal/testing/importer testing/inventory-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md"
+                "file": "ultraportal/testing/importer testing/inventory-importing.md"
               }
             }
           },
@@ -144,13 +145,22 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "aebfcc3a170deb0c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 449.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,13 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aebfcc3a170deb0c",
+  "active": "1d83e8401be92d49",
   "lastOpenFiles": [
-    "Pasted image 20230728142116.png",
-    "Pasted image 20230728141738.png",
-    "ultraportal/testing/importer testing/fleet-costs-importing.md",
-    "ultraportal/public/csv's/~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "ultraportal/testing/importer testing/inventory-importing.md",
+    "ultraportal/testing/importer testing/fleet-costs-importing.md",
+    "ultraportal/public/images/Pasted image 20230728142116.png",
+    "ultraportal/public/images/Pasted image 20230728141738.png",
+    "ultraportal/public/csv's/~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "ultraportal/testing/importer testing/tco-importing.md",
     "ultraportal/docs/AWS Terminal Tutorial.md",
     "Untitled.md",

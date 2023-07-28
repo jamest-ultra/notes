@@ -88,8 +88,12 @@
             "id": "1d83e8401be92d49",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md"
+              }
             }
           },
           {
@@ -172,6 +180,7 @@
   },
   "active": "1d83e8401be92d49",
   "lastOpenFiles": [
+    "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
     "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/testing/importer testing/fleet-costs-importing.md",
     "ultraportal/public/images/Pasted image 20230728142116.png",

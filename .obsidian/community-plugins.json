@@ -1,4 +1,8 @@
 [
   "obsidian-mkdocs-publisher",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "note-refactor-obsidian",
+  "obsidian-tasks-plugin",
+  "obsidian-mind-map"
 ]

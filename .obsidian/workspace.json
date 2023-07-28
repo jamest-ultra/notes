@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2f6c7bd0e50fe9f8",
+        "id": "fb73e9ac37a9fb30",
         "type": "tabs",
         "children": [
           {
-            "id": "e08e8365c6402e71",
+            "id": "68b1a01efc6fd3fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ultraportal/testing/importer testing/fleet-costs-importing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,14 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e08e8365c6402e71",
+  "active": "14ccc017ec71acd2",
   "lastOpenFiles": [
+    "ultraportal/docs/templates/Obsidian Note-taking Template.md",
+    "ultraportal/testing/importer testing/inventory-importing.md",
+    "ultraportal/testing/importer testing/tco-importing.md",
+    "ultraportal/testing/importer testing/fleet-costs-importing.md",
+    "ultraportal/meetings/tem.md",
+    "ultraportal/docs/templates",
     "3C759000",
     "test-cost-import.csv",
-    "ultraportal/testing/importer testing/fleet-costs-importing.md",
     "~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
-    "ultraportal/testing/importer testing/tco-importing.md",
-    "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/testing/importer testing",
     "uk_roi_test_file.csv",
     "Brighton fuel 1.csv",
@@ -170,9 +165,6 @@
     "importer.md",
     "staging.ultraportal.co.uk/secure/dashboard.md",
     "staging.ultraportal.co.uk/secure",
-    "staging.ultraportal.co.uk",
-    "ultraportal/public/importer-files/Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
-    "ultraportal/docs/Obsidian Note-taking Template.md",
     "Untitled.md",
     "Untitled.canvas",
     "2023-07-28.md",

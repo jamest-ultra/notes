@@ -4,11 +4,12 @@ Choose a descriptive title for your note
 
 ### Date:
 
-Date
+{{date}}
+{{time}}
 
 ### Tags:
 
-[[importer]]
+Attach tags for doc
 
 ### Summary:
 

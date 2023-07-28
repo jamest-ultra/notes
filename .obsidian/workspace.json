@@ -11,8 +11,11 @@
             "id": "5018b879f01caae4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "ultraportal/testing/cost-importing.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -134,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,21 +151,23 @@
   },
   "active": "5018b879f01caae4",
   "lastOpenFiles": [
-    "ultraportal/docs/Obsidian Note-taking Template.md",
     "ultraportal/testing/cost-importing.md",
-    "ultraportal/testing/tco-importing.md",
+    "~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
+    "ultraportal/public/importer-files/Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
+    "ultraportal/public/importer-files",
+    "ultraportal/public",
+    "Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "ultraportal/testing/inventory-importing.md",
+    "ultraportal/docs/Obsidian Note-taking Template.md",
+    "ultraportal/testing/tco-importing.md",
     "Untitled.md",
     "Untitled.canvas",
     "2023-07-28.md",
-    "Untitled",
     "ultraportal/docs",
     "ultraportal/testing",
     "ultraportal/meetings",
     "ultraportal/Untitled.canvas",
     "ultraportal/staging",
-    "ultraportal/prod",
-    "ultrareporting",
-    "ultraportal"
+    "ultraportal/prod"
   ]
 }

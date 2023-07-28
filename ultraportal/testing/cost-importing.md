@@ -1,70 +1,53 @@
 ### Cost importing:
 
-[Choose a descriptive title for your note]
+Choose a descriptive title for your note
 
 ### Date:
 
-[28/07/2023]
+28/07/2023
 
 ### Tags:
 
-[Importer]
+[[importer]] [[cost-importing]]
 
 ### Summary:
 
-[This testing will cover the importer test for costs.]
+This testing will cover the importer test for costs.
 
 ### Table of Contents:
 
-- [Section 1: Topic 1]
-- [Section 2: Topic 2]
-- [Section 3: Topic 3]
-- [Section 4: Topic 4]
-- [Section 5: Topic 5]
-- [Section 6: Topic 6]
+- [[#Notes]]
+- 
 
-### Section 1: Topic 1
+- [[#Additional Notes/Comments]]
+- [[#Related Notes]]
+- [[#References]]
+- [[#Backlinks]]
+- [[#Attachments]]
 
-[Main content of the first section or topic. You can include sub-sections if needed.]
+### Notes
 
-### Section 2: Topic 2
+When importing the costs for cost import you'll need to first start with the file.
 
-[Main content of the second section or topic. You can include sub-sections if needed.]
-
-### Section 3: Topic 3
-
-[Main content of the third section or topic. You can include sub-sections if needed.]
-
-### Section 4: Topic 4
-
-[Main content of the fourth section or topic. You can include sub-sections if needed.]
-
-### Section 5: Topic 5
-
-[Main content of the fifth section or topic. You can include sub-sections if needed.]
-
-### Section 6: Topic 6
-
-[Main content of the sixth section or topic. You can include sub-sections if needed.]
 
 ### Additional Notes/Comments:
 
-[Any additional remarks, thoughts, or comments related to this note]
+[[Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx]]
 
 ### Related Notes:
 
-[List any related notes or backlinks to other notes within your Obsidian vault]
+List any related notes or backlinks to other notes within your Obsidian vault
 
 ### References:
 
-[List any external sources or references used in this note, such as articles, books, websites, etc.]
+List any external sources or references used in this note, such as articles, books, websites, etc.
 
 ### Backlinks:
 
-[List any other notes that link to this particular note]
+List any other notes that link to this particular note
 
 ### Attachments:
 
-[If applicable, list any attachments or files associated with this note]
+If applicable, list any attachments or files associated with this note
 
 Feel free to customize this template to suit your specific note-taking needs and preferences. Obsidian is a versatile tool, so you can adapt this template as you see fit to create a note-taking system that works best for you. The key is to make your notes organized, easy to navigate, and interconnected to enhance your knowledge management and understanding of various topics.

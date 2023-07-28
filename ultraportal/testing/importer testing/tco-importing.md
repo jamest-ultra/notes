@@ -39,7 +39,7 @@ When importing the costs for cost import you'll need to first start with the fil
 
 ```mermaid
 flowchart TD
-A[Take file] --> B[Check file] --> C[Run through import] --> D[Compare file with transactions] --> E[Compare file with transaction links]
+A[Take file] --> B[Check file] --> C[Run through import] --> D[Compare file with transactions] --> E[Compare file with transaction links] --> F[Navigate to products and check product]
 ```
 
 ```text
@@ -72,3 +72,5 @@ none
 
 ![[test-fuel-import.csv]]
 #### Mapping image:
+
+![[screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png]]

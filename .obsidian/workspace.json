@@ -8,24 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e77ef7d1390b19f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ultraportal/testing/importer testing/inventory-importing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "699500522ecdc254",
-        "type": "tabs",
-        "children": [
-          {
             "id": "0a9fc30cce28bbfe",
             "type": "leaf",
             "state": {
@@ -95,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "d05e26196024cdc3",
@@ -185,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +180,12 @@
   },
   "active": "0a9fc30cce28bbfe",
   "lastOpenFiles": [
-    "ultraportal/public/csv's/0A8B7100",
-    "ultraportal/public/csv's/test-fuel-import.csv",
+    "ultraportal/testing/importer testing/fleet-costs-importing.md",
     "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/testing/importer testing/tco-importing.md",
-    "ultraportal/testing/importer testing/fleet-costs-importing.md",
+    "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png",
+    "ultraportal/public/csv's/0A8B7100",
+    "ultraportal/public/csv's/test-fuel-import.csv",
     "ultraportal/public/images/Pasted image 20230728133656.png",
     "ultraportal/public/images/Pasted image 20230728141738.png",
     "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
@@ -225,7 +206,6 @@
     "ultraportal/public/csv's/Brighton fuel.csv",
     "ultraportal/public/uk_roi_test_file.csv",
     "ultraportal/public/test-cost-import.csv",
-    "ultraportal/public/Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "ultraportal/meetings/tem.md",
     "importer.md",
     "staging.ultraportal.co.uk/secure/dashboard.md",

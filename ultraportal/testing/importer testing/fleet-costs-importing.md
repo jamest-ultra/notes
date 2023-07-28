@@ -39,11 +39,35 @@ When importing the costs for cost import you'll need to first start with the fil
 - Group has to be part of the company
 - Only need to specify the company. The rest will be read from the spreadsheet.
 
-	- Select company on next page
-	- group = cost group code 
-	- group code = group code 
-	- vehicle = vrn
-	- supplier = provider
+<details>
+<summary>Transaction fields to import</summary>
+<br>
+Mapping name 
+/ Unique key 
+/ Gross 
+/ Net 
+/ Vat 
+/ Vat rate 
+/ Total 
+/ Client number
+/Client country
+/Invoice number
+/Vrn
+/Vin
+/Invoice date
+/Invoice line code
+/Invoice line description
+/Group code
+/ Cost group code
+/ Provider Company 
+/ mapping
+/ company = select on the next page
+/ cost Group = cost group code
+/ group = group code
+/ vehicle = vrn
+/ supplier = provider
+/ currency = select on next page
+</details>
 
 - transaction reference
 - Select company.

@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 648.5
+    "width": 556.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4ce6eb16037b3e6",
+  "active": "4a013d129264fc18",
   "lastOpenFiles": [
-    "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
+    "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/testing/importer testing/tco-importing.md",
     "Untitled.md",
     "ultraportal/testing/importer testing/fleet-costs-importing.md",

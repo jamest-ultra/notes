@@ -11,5 +11,6 @@
 # to-do list
 - Once I get the data from Lianne,
 	- Import data for Uk and Ireland
-		- Inventory and fuel
+		- Inventory #2023-08-03
+		- fuel 
 

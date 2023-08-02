@@ -6,10 +6,8 @@
 - Find a way to remove all data for ECP 
 	- Delete UK & Ireland OLD
 	- Delete allocations
-	- Re-import for Uk and Ireland
+	- Re-import for UK and Ireland
 - 
 # to-do list
-
-
-
+- 
 

@@ -1,2 +1,17 @@
 # Environments:
-
+- Vanilla 
+	- uat.ultraportal.co.uk
+	- uat.ultraportal.co.uk/secure/dashboard
+	- uat.ultraportal.co.uk/toolkit/ "route"
+- Redde
+	- uat.fmgindicate.co.uk
+	- uat.fmgindicate.co.uk/secure/dashboard
+	- uat.fmgindicate.co.uk/toolkit/ "route"
+- SSE
+	- sse.uat.ultraportal.co.uk
+	- sse.uat.ultraportal.co.uk/secure/dashboard
+	- sse.uat.ultraportal.co.uk/toolkit/ "route"
+- Northgate 
+	- uat.northgatefleetuser.co.uk
+	- uat.northgatefleetuser.co.uk/secure/dashboard
+	- uat.northgatefleetuser.co.uk/toolkit/ "route"

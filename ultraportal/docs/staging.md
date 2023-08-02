@@ -1,19 +1,17 @@
-
 # Environments:
-
 - Vanilla 
 	- staging.ultraportal.co.uk
 	- staging.ultraportal.co.uk/secure/dashboard
-	- staging.ultraportal.co.uk/toolkit/
-
+	- staging.ultraportal.co.uk/toolkit/ "route"
 - Redde
 	- staging.fmgindicate.co.uk
 	- staging.fmgindicate.co.uk/secure/dashboard
-	- staging.fmgindicate.co.uk/toolkit/
-
+	- staging.fmgindicate.co.uk/toolkit/ "route"
 - SSE
-	- sse.staging.fmgindicate.co.uk
-	- sse.staging.fmgindicate.co.uk/secure/dashboard
-	- sse.staging.fmgindicate.co.uk/toolkit/
-
-- Northgate 
+	- sse.staging.ultraportal.co.uk
+	- sse.staging.ultraportal.co.uk/secure/dashboard
+	- sse.staging.ultraportal.co.uk/toolkit/ "route"
+- Northgate
+	- staging.northgatefleetuser.co.uk
+	- staging.northgatefleetuser.co.uk/secure/dashboard
+	- staging.northgatefleetuser.co.uk/toolkit/ "route"

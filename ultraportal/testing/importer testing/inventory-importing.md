@@ -42,7 +42,7 @@ currency code = code
 
 [[#Mapping image]]
 
-After the import you'll need to run the job on [[AWS Terminal Tutorial]]
+After the import you'll need to run the job on [[aws-terminal-tutorial]]
 
 #### Areas to cover:
 

@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "ultraportal/public/images"
+  "attachmentFolderPath": "ultraportal/public/images",
+  "alwaysUpdateLinks": true
 }

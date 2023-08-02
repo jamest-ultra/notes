@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ultraportal/docs/AWS Terminal Tutorial.md",
+                "file": "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ultraportal/docs/AWS Terminal Tutorial.md",
+                "file": "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ultraportal/docs/AWS Terminal Tutorial.md",
+                "file": "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ultraportal/docs/AWS Terminal Tutorial.md"
+                "file": "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md"
               }
             }
           },
@@ -180,13 +180,15 @@
   },
   "active": "a4ce6eb16037b3e6",
   "lastOpenFiles": [
+    "ultraportal/docs/AWS Terminal Tutorial.md",
+    "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
+    "ultraportal/meetings/lkq",
     "ultraportal/docs/templates/Obsidian Note-taking Template.md",
     "ultraportal/meetings/northgate-Deployment-2023-08-02.md",
     "ultraportal/testing/importer testing/tco-importing.md",
     "Untitled.md",
     "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/testing/importer testing/fleet-costs-importing.md",
-    "ultraportal/docs/AWS Terminal Tutorial.md",
     "ultraportal/testing/release-testing/qa-testing/Untitled.md",
     "ultraportal/testing/release-testing/qa-testing/Untitled",
     "ultraportal/testing/release-testing/qa-testing",
@@ -209,7 +211,6 @@
     "ultraportal/public/csv's/~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "ultraportal/public/csv's/uk_roi_test_file.csv",
     "ultraportal/public/csv's/test-cost-import.csv",
-    "ultraportal/public/csv's/Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "ultraportal/meetings/tem.md",
     "importer.md",
     "staging.ultraportal.co.uk/secure/dashboard.md",

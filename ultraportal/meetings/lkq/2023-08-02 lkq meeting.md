@@ -11,5 +11,5 @@
 # to-do list
 - Once I get the data from Lianne,
 	- Import data for Uk and Ireland
-		- [ ] inventory (@2023-08-03)
-		- [ ] fuel (@
+		- [ ] [[inventory-importing]] (@2023-08-03)
+		- [ ] [[tco-importing]] (@2023-08-03)

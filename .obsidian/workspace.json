@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -78,7 +78,7 @@
       {
         "id": "2dec6abd644fda07",
         "type": "tabs",
-        "dimension": 62.6937984496124,
+        "dimension": 54.360465116279066,
         "children": [
           {
             "id": "e8104d92600a3931",
@@ -96,13 +96,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "53223e00ad172abe",
         "type": "tabs",
-        "dimension": 37.3062015503876,
+        "dimension": 45.63953488372093,
         "children": [
           {
             "id": "4641a438842e3ffc",
@@ -181,15 +180,15 @@
   },
   "active": "62a8798ed87d8ad6",
   "lastOpenFiles": [
+    "ultraportal/testing/importer testing/fleet-costs-importing.md",
     "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
+    "ultraportal/meetings/northgate-Deployment-2023-08-02.md",
     "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/testing/importer testing/tco-importing.md",
     "Untitled.md",
-    "ultraportal/testing/importer testing/fleet-costs-importing.md",
     "ultraportal/docs/AWS Terminal Tutorial.md",
     "ultraportal/meetings/lkq",
     "ultraportal/docs/templates/Obsidian Note-taking Template.md",
-    "ultraportal/meetings/northgate-Deployment-2023-08-02.md",
     "ultraportal/testing/release-testing/qa-testing/Untitled.md",
     "ultraportal/testing/release-testing/qa-testing/Untitled",
     "ultraportal/testing/release-testing/qa-testing",

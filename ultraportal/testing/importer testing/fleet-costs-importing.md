@@ -70,6 +70,7 @@ When importing the costs for cost import you'll need to first start with the fil
 </ul>
 </details>
 
+
 <details>
 <summary>Match transaction fields with unique identifiers</summary>
 <ul>

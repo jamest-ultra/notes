@@ -9,5 +9,7 @@
 	- Re-import for UK and Ireland
 - 
 # to-do list
-- 
+- Once I get the data from Lianne,
+	- Import data for Uk and Ireland
+		- Inventory and fuel
 

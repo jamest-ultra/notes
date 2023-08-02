@@ -21,13 +21,22 @@ Before starting this tutorial, ensure that you have the following:
 7. To start an EC2 instance, enter the command `aws ec2 start-instances --instance-ids instance-id`. Replace `instance-id` with the ID of the instance you want to start.
 8. To stop an EC2 instance, enter the command `aws ec2 stop-instances --instance-ids instance-id`. Replace `instance-id` with the ID of the instance you want to stop.
 
-## Staging
+## [[staging]]
+
 ```shell
 sudo su centos 
-cd /var/www/vhosts/staging.ultraportal/ultraportal
+cd /var/www/vhosts/staging."enviroment"/"enviroment"
 ```
 
-Scripts
+## [[Uat]]
+
+```shell
+sudo su centos 
+cd /var/www/vhosts/uat."enviroment"/"enviroment"
+```
+
+## [[Scripts]]
+
 ```shell
 ./scripts/run-jobs.sh
 ```

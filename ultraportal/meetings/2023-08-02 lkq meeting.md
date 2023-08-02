@@ -1,7 +1,7 @@
 # Notes:
 - lkq access - just for main managers
-- Testing staging / uat import with country packs
-	- Will be different since uat is running the old importer
+- Testing [[staging]] / [[Uat]] import with country packs
+	- Will be different since [[Uat]] is running the old importer
 	- Staging is running the new import
 - Find a way to remove all data for ECP 
 	- Delete UK & Ireland OLD
@@ -9,6 +9,7 @@
 	- Re-import for UK and Ireland
 - 
 # to-do list
+- Test on [[staging]] first then on [[Uat]]
 - Once I get the data from Lianne,
 	- Import data for Uk and Ireland
 		- [ ] [[inventory-importing]] (@2023-08-03)

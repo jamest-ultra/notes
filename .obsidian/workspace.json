@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,10 +174,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4ce6eb16037b3e6",
+  "active": "e8104d92600a3931",
   "lastOpenFiles": [
-    "ultraportal/docs/AWS Terminal Tutorial.md",
     "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
+    "ultraportal/docs/AWS Terminal Tutorial.md",
     "ultraportal/meetings/lkq",
     "ultraportal/docs/templates/Obsidian Note-taking Template.md",
     "ultraportal/meetings/northgate-Deployment-2023-08-02.md",

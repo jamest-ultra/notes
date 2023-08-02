@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "431bcb3309ccba9a",
+        "id": "a7e04de941890861",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ce6eb16037b3e6",
+            "id": "62a8798ed87d8ad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2023-08-03",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,14 +62,6 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "be3758762ef9c432",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -95,8 +87,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "aba5b8291417501f",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "53223e00ad172abe",
@@ -178,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a013d129264fc18",
+  "active": "62a8798ed87d8ad6",
   "lastOpenFiles": [
     "ultraportal/meetings/lkq/2023-08-02 lkq meeting.md",
     "ultraportal/testing/importer testing/inventory-importing.md",

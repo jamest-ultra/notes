@@ -120,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to-do-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "to-do-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "to-do-list.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51219329e291b121",
+  "active": "e8104d92600a3931",
   "lastOpenFiles": [
-    "ultraportal/docs/uat.md",
     "to-do-list.md",
+    "ultraportal/docs/uat.md",
     "ultraportal/meetings/2023-08-02-northgate-deployment.md",
     "ultraportal/meetings/2023-08-02 lkq meeting.md",
     "ultraportal/testing/importer testing/fleet-costs-importing.md",

@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 824.5
+    "width": 489.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68739b655e0f17e6",
+  "active": "14ccc017ec71acd2",
   "lastOpenFiles": [
     "ultraportal/docs/uat.md",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ultraportal/docs/uat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51219329e291b121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "ultraportal/testing/importer testing/inventory-importing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,16 +177,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51219329e291b121",
+  "active": "68739b655e0f17e6",
   "lastOpenFiles": [
-    "to-do-list.md",
     "ultraportal/docs/uat.md",
+    "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",
+    "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png",
+    "ultraportal/testing/importer testing/inventory-importing.md",
+    "to-do-list.md",
     "ultraportal/meetings/2023-08-02-northgate-deployment.md",
     "ultraportal/meetings/2023-08-02 lkq meeting.md",
     "ultraportal/testing/importer testing/fleet-costs-importing.md",
     "ultraportal/docs/staging.md",
     "ultraportal/docs/aws-terminal-tutorial.md",
-    "ultraportal/testing/importer testing/inventory-importing.md",
     "ultraportal/docs/Untitled.canvas",
     "ultraportal/testing/importer testing/tco-importing.md",
     "staging ultraportal.md",
@@ -217,7 +206,6 @@
     "ultraportal/testing/release-testing/UP.md",
     "ultraportal/testing/release-testing/UP sprint 29 - Caterpie.md",
     "ultraportal/testing/release-testing",
-    "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png",
     "ultraportal/public/csv's/0A8B7100",
     "ultraportal/public/csv's/test-fuel-import.csv",
     "ultraportal/public/images/Pasted image 20230728133656.png",
@@ -225,7 +213,6 @@
     "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
     "ultraportal/public/images/Pasted image 20230728142116.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png",
-    "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 2.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 3.png",
     "ultraportal/public/images/Pasted image 20230728133726.png",

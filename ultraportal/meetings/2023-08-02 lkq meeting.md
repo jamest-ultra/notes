@@ -12,5 +12,5 @@
 - Test on [[staging]] first then on [[Uat]]
 - Once I get the data from Lianne,
 	- Import data for Uk and Ireland
-		- [ ] [[inventory-importing]] (@2023-08-03 10:07)
-		- [ ] [[tco-importing]] (@2023-08-03 10:07)
+		- [ ] [[inventory-importing]] (@2023-08-03 13:22)
+		- [ ] [[tco-importing]] (@2023-08-03 13:22)

@@ -44,7 +44,7 @@ This page will be used to outline the requirements and planning for putting toge
 - [x] testSupplier3 ✅ 2023-08-04
 - [x] testSupplier4 ✅ 2023-08-04
 
-# Fuel 
+# Fuel:
 
 ### CSV
 
@@ -69,3 +69,6 @@ This page will be used to outline the requirements and planning for putting toge
 - [x] testSupplier2 ✅ 2023-08-04
 - [x] testSupplier3 ✅ 2023-08-04
 - [x] testSupplier4 ✅ 2023-08-04
+
+# Cost:
+

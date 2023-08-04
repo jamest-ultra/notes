@@ -1,16 +1,15 @@
 This page will be used to outline the requirements and planning for putting together a testing plan for all of the tco requirements.
-
 # Company:
 
-- tcoTestingCompany
-
+- [x] tcoTestingCompany ✅ 2023-08-04
 # Group:
 
-- tcoTestingGroup1
-- tcoTestingGroup2
-- tcoTestingGroup3
+- [x] tcoTestingGroup1 ✅ 2023-08-04
+- [x] tcoTestingGroup2 ✅ 2023-08-04
+- [x] tcoTestingGroup3 ✅ 2023-08-04
+# Inventory:
 
-# Vehicles:
+### CSV
 
 - Vin 
 - Vrn
@@ -38,8 +37,16 @@ This page will be used to outline the requirements and planning for putting toge
 - Fuel Type Code
 - Supplier
 - Direct Purchase
+### Suppliers
+
+- [x] testSuppler1 ✅ 2023-08-04
+- [x] testSupplier2 ✅ 2023-08-04
+- [x] testSupplier3 ✅ 2023-08-04
+- [x] testSupplier4 ✅ 2023-08-04
 
 # Fuel 
+
+### CSV
 
 - Card Number
 - Card Type Description
@@ -56,3 +63,9 @@ This page will be used to outline the requirements and planning for putting toge
 - Site Phone Number
 - Country
 
+### Supplier
+
+- [x] testSupplier1 ✅ 2023-08-04
+- [x] testSupplier2 ✅ 2023-08-04
+- [x] testSupplier3 ✅ 2023-08-04
+- [x] testSupplier4 ✅ 2023-08-04

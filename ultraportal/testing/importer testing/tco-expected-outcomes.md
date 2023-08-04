@@ -1,16 +1,16 @@
 This page will be used to outline the requirements and planning for putting together a testing plan for all of the tco requirements.
 
-Company:
+# Company:
 
 - tcoTestingCompany
 
-Group:
+# Group:
 
 - tcoTestingGroup1
 - tcoTestingGroup2
 - tcoTestingGroup3
 
-Vehicles:
+# Vehicles:
 
 - Vin 
 - Vrn
@@ -31,4 +31,28 @@ Vehicles:
 - Engine Capacity
 - Engine Power(kw)
 - CO2 Emission
-- 
+- Funding Method
+- Group Code
+- Body Style
+- Active
+- Fuel Type Code
+- Supplier
+- Direct Purchase
+
+# Fuel 
+
+- Card Number
+- Card Type Description
+- Card VRN
+- Transaction Date
+- Transaction VRN
+- Odometer
+- Transaction Type
+- Quantity
+- Unit price
+- Net Value
+- Site Number
+- Site Name
+- Site Phone Number
+- Country
+

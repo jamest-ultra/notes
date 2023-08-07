@@ -2,11 +2,13 @@ This page will be used to outline the requirements and planning for putting toge
 # Company:
 
 - [x] tcoTestingCompany ✅ 2023-08-04
+--------------------------------------------------------------------
 # Group:
 
 - [x] tcoTestingGroup1 ✅ 2023-08-04
 - [x] tcoTestingGroup2 ✅ 2023-08-04
 - [x] tcoTestingGroup3 ✅ 2023-08-04
+--------------------------------------------------------------------
 # Inventory:
 
 ### CSV
@@ -44,6 +46,8 @@ This page will be used to outline the requirements and planning for putting toge
 - [x] testSupplier3 ✅ 2023-08-04
 - [x] testSupplier4 ✅ 2023-08-04
 
+
+--------------------------------------------------------------------
 # Fuel:
 
 ### CSV
@@ -70,5 +74,6 @@ This page will be used to outline the requirements and planning for putting toge
 - [x] testSupplier3 ✅ 2023-08-04
 - [x] testSupplier4 ✅ 2023-08-04
 
+--------------------------------------------------------------------
 # Cost:
 

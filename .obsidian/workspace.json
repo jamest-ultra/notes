@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "d05e26196024cdc3",
@@ -116,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ultraportal/testing/importer testing/tco-expected-outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ultraportal/testing/importer testing/tco-expected-outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ultraportal/testing/importer testing/tco-expected-outcomes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 685.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +181,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14ccc017ec71acd2",
+  "active": "e8104d92600a3931",
   "lastOpenFiles": [
+    "ultraportal/public/templates/main-template.md",
     "ultraportal/testing/importer testing/tco-expected-outcomes.md",
     "ultraportal/meetings/2023-08-02 lkq meeting.md",
     "to-do-list.md",
@@ -208,7 +203,6 @@
     "Day Planners/Day Planner-20230802.md",
     "Day Planners",
     "ultraportal/public/templates",
-    "ultraportal/public/templates/main-template.md",
     "ultraportal/docs/templates/Obsidian Note-taking Template.md",
     "ultraportal/meetings/lkq",
     "ultraportal/testing/release-testing/qa-testing/Untitled.md",

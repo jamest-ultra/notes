@@ -28,7 +28,7 @@ sudo su centos
 cd /var/www/vhosts/staging."enviroment"/"enviroment"
 ```
 
-## [[Uat]]
+## [[uat]]
 
 ```shell
 sudo su centos 

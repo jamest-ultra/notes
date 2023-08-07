@@ -1,6 +1,6 @@
 ### TCO importing:
 
-This page serves as a guide for testing the importer functionality related to tco importing. The testing process is dated [[#Date]] and revolves around evaluating the effectiveness and accuracy of the cost importing feature. The page is organized into several sections for easy navigation.
+This page serves as a guide for testing the importer functionality related to TCO importing. The testing process is dated [[#Date]] and revolves around evaluating the effectiveness and accuracy of the cost importing feature. The page is organized into several sections for easy navigation.
 
 ### Date:
 

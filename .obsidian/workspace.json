@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d645f03722ad4def",
+        "id": "f2cf92ea5be7773d",
         "type": "tabs",
         "children": [
           {
-            "id": "68739b655e0f17e6",
+            "id": "5817c2dabed35c95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing/importer testing/tco-expected-outcomes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -115,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/tco-expected-outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/tco-expected-outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "testing/importer testing/tco-expected-outcomes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 685.5
+    "width": 559.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +177,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68739b655e0f17e6",
+  "active": "5817c2dabed35c95",
   "lastOpenFiles": [
+    "docs/staging.md",
+    "meetings/2023-08-02 lkq meeting.md",
+    "testing/importer testing/inventory-importing.md",
+    "importer.md",
+    "testing/importer testing/fleet-costs-importing.md",
+    "testing/importer testing/tco-expected-outcomes.md",
     "public/csv's/~$FUEL IMPORT TEST.xlsx",
     "public/csv's/108DFA10",
     "public/csv's/F3F08A10",
@@ -195,26 +193,19 @@
     "public/csv's/9BD95A10",
     "public/csv's/23495A10",
     "public/csv's/6D585A10",
-    "testing/importer testing/fleet-costs-importing.md",
-    "testing/importer testing/inventory-importing.md",
     "testing/importer testing/tco-importing.md",
-    "testing/importer testing/tco-expected-outcomes.md",
     "public/csv's/invImport.csv",
     "public/csv's/FUEL IMPORT TEST.xlsx",
-    "public/invImport.csv",
     "to-do-list.md",
-    "meetings/2023-08-02 lkq meeting.md",
     "meetings/2023-08-02-northgate-deployment.md",
     "docs/aws-terminal-tutorial.md",
     "docs/uat.md",
-    "docs/staging.md",
     "public/templates/main-template.md",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png",
     "ultraportal/docs/Untitled.canvas",
     "staging ultraportal.md",
     "Uat.md",
-    "importer.md",
     "Day Planners/Day Planner-20230802.md",
     "ultraportal/docs/templates/Obsidian Note-taking Template.md",
     "ultraportal/testing/release-testing/qa-testing/Untitled.md",

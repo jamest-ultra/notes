@@ -1,8 +1,8 @@
 {
-  "accentColor": "#db76c8",
+  "accentColor": "#76cfdb",
   "baseFontSize": 17,
   "translucency": false,
   "nativeMenus": false,
   "theme": "obsidian",
-  "cssTheme": "Minimal"
+  "cssTheme": "Solarized"
 }

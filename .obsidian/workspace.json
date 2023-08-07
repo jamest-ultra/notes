@@ -115,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ultraportal/testing/importer testing/tco-expected-outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ultraportal/testing/importer testing/tco-expected-outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ultraportal/testing/importer testing/tco-expected-outcomes.md"
+              }
             }
           },
           {
@@ -181,8 +185,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8104d92600a3931",
+  "active": "68739b655e0f17e6",
   "lastOpenFiles": [
+    "ultraportal/public/csv's/~$InvImport.xlsx",
+    "ultraportal/public/csv's/InvImport.xlsx",
+    "ultraportal/public/csv's/FuelImport.xlsx",
+    "ultraportal/public/InvImport.xlsx",
+    "ultraportal/public/FuelImport.xlsx",
+    "ultraportal/public/images/InvImport.xlsx",
+    "ultraportal/public/images/FuelImport.xlsx",
     "ultraportal/public/templates/main-template.md",
     "ultraportal/testing/importer testing/tco-expected-outcomes.md",
     "ultraportal/meetings/2023-08-02 lkq meeting.md",
@@ -207,12 +218,8 @@
     "ultraportal/meetings/lkq",
     "ultraportal/testing/release-testing/qa-testing/Untitled.md",
     "ultraportal/testing/release-testing/qa-testing/Untitled",
-    "ultraportal/testing/release-testing/qa-testing",
     "ultraportal/testing/release-testing/UP.md",
     "ultraportal/testing/release-testing/UP sprint 29 - Caterpie.md",
-    "ultraportal/testing/release-testing",
-    "ultraportal/public/csv's/0A8B7100",
-    "ultraportal/public/csv's/test-fuel-import.csv",
     "ultraportal/public/images/Pasted image 20230728133656.png",
     "ultraportal/public/images/Pasted image 20230728141738.png",
     "screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png.md",
@@ -221,8 +228,6 @@
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 2.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 3.png",
     "ultraportal/public/images/Pasted image 20230728133726.png",
-    "ultraportal/public/csv's/test-inventory-import.csv",
-    "ultraportal/public/csv's/~$Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx",
     "ultraportal/meetings/tem.md",
     "staging.ultraportal.co.uk/secure/dashboard.md",
     "Untitled.canvas",

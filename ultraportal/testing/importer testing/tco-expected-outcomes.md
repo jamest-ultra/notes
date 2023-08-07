@@ -39,6 +39,8 @@ This page will be used to outline the requirements and planning for putting toge
 - Fuel Type Code
 - Supplier
 - Direct Purchase
+
+![[InvImport.xlsx]]
 ### Suppliers
 
 - [x] testSuppler1 ✅ 2023-08-04
@@ -66,6 +68,8 @@ This page will be used to outline the requirements and planning for putting toge
 - Site Name
 - Site Phone Number
 - Country
+
+![[FuelImport.xlsx]]
 
 ### Supplier
 

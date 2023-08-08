@@ -5,9 +5,9 @@ This page will be used to outline the requirements and planning for putting toge
 --------------------------------------------------------------------
 # Group:
 
-- [x] tcoTestingGroup1 ✅ 2023-08-04
-- [x] tcoTestingGroup2 ✅ 2023-08-04
-- [x] tcoTestingGroup3 ✅ 2023-08-04
+- tcoTestingGroup1a > tcoTestingGroup1b
+- tcoTestingGroup2a > tcoTestingGroup2b
+- tcoTestingGroup3a > tcoTestingGroup3b
 --------------------------------------------------------------------
 # Inventory:
 
@@ -43,10 +43,9 @@ This page will be used to outline the requirements and planning for putting toge
 ![[InvImport.xlsx]]
 ### Suppliers
 
-- [x] testSuppler1 ✅ 2023-08-04
-- [x] testSupplier2 ✅ 2023-08-04
-- [x] testSupplier3 ✅ 2023-08-04
-- [x] testSupplier4 ✅ 2023-08-04
+- [ ] testSuppler1a > testSupplier1b > testSupplier1c
+- [ ] testSupplier2a > testSupplier2b
+- [ ] testSupplier3
 
 
 --------------------------------------------------------------------
@@ -73,10 +72,9 @@ This page will be used to outline the requirements and planning for putting toge
 
 ### Supplier
 
-- [x] testSupplier1 ✅ 2023-08-04
-- [x] testSupplier2 ✅ 2023-08-04
-- [x] testSupplier3 ✅ 2023-08-04
-- [x] testSupplier4 ✅ 2023-08-04
+testSupplier1a > testSupplier1b > testSupplier1c
+testSupplier2a > testSupplier2b
+testSupplier3a 
 
 --------------------------------------------------------------------
 # Cost:

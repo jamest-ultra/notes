@@ -11,8 +11,12 @@
             "id": "5817c2dabed35c95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "testing/importer testing/tco-expected-outcomes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -111,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testing/importer testing/tco-expected-outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testing/importer testing/tco-expected-outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "testing/importer testing/tco-expected-outcomes.md"
+              }
             }
           },
           {

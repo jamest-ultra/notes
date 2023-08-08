@@ -10,7 +10,7 @@
           {
             "id": "d5d584b35878dacc",
             "type": "tabs",
-            "dimension": 70.67307692307693,
+            "dimension": 71.26068376068376,
             "children": [
               {
                 "id": "7af8cf6f1991ff7f",
@@ -29,7 +29,7 @@
           {
             "id": "43f98b4e7c97ca9b",
             "type": "tabs",
-            "dimension": 29.326923076923077,
+            "dimension": 28.73931623931624,
             "children": [
               {
                 "id": "e8104d92600a3931",
@@ -47,8 +47,7 @@
                   "state": {}
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -101,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 288.5
   },
   "right": {
     "id": "d05e26196024cdc3",
@@ -140,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/aws-terminal-tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/aws-terminal-tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/aws-terminal-tutorial.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -203,8 +198,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14ccc017ec71acd2",
+  "active": "e8104d92600a3931",
   "lastOpenFiles": [
+    "docs/aws-terminal-tutorial.md",
     "meetings/2023-08-02 lkq meeting.md",
     "testing/importer testing/tco-expected-outcomes.md",
     "docs/staging.md",
@@ -224,7 +220,6 @@
     "public/csv's/FUEL IMPORT TEST.xlsx",
     "to-do-list.md",
     "meetings/2023-08-02-northgate-deployment.md",
-    "docs/aws-terminal-tutorial.md",
     "docs/uat.md",
     "public/templates/main-template.md",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",

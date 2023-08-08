@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2cf92ea5be7773d",
+        "id": "d5d584b35878dacc",
         "type": "tabs",
         "children": [
           {
-            "id": "5817c2dabed35c95",
+            "id": "7af8cf6f1991ff7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing/importer testing/tco-expected-outcomes.md",
+                "file": "docs/aws-terminal-tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 297.5
   },
   "right": {
     "id": "d05e26196024cdc3",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/tco-expected-outcomes.md",
+                "file": "docs/aws-terminal-tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/tco-expected-outcomes.md",
+                "file": "docs/aws-terminal-tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/importer testing/tco-expected-outcomes.md"
+                "file": "docs/aws-terminal-tutorial.md"
               }
             }
           },
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 559.5
+    "width": 559.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,14 +186,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5817c2dabed35c95",
+  "active": "7af8cf6f1991ff7f",
   "lastOpenFiles": [
-    "docs/staging.md",
     "meetings/2023-08-02 lkq meeting.md",
+    "testing/importer testing/tco-expected-outcomes.md",
+    "docs/staging.md",
     "testing/importer testing/inventory-importing.md",
     "importer.md",
     "testing/importer testing/fleet-costs-importing.md",
-    "testing/importer testing/tco-expected-outcomes.md",
     "public/csv's/~$FUEL IMPORT TEST.xlsx",
     "public/csv's/108DFA10",
     "public/csv's/F3F08A10",

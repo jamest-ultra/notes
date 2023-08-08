@@ -4,22 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "d5d584b35878dacc",
-        "type": "tabs",
+        "id": "4985e7a6d2ffc16f",
+        "type": "split",
         "children": [
           {
-            "id": "7af8cf6f1991ff7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/aws-terminal-tutorial.md",
-                "mode": "source",
-                "source": false
+            "id": "d5d584b35878dacc",
+            "type": "tabs",
+            "dimension": 70.67307692307693,
+            "children": [
+              {
+                "id": "7af8cf6f1991ff7f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/aws-terminal-tutorial.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "43f98b4e7c97ca9b",
+            "type": "tabs",
+            "dimension": 29.326923076923077,
+            "children": [
+              {
+                "id": "e8104d92600a3931",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "14ccc017ec71acd2",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -80,14 +112,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8104d92600a3931",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "aba5b8291417501f",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "53223e00ad172abe",
@@ -158,17 +183,9 @@
                 "file": "docs/aws-terminal-tutorial.md"
               }
             }
-          },
-          {
-            "id": "14ccc017ec71acd2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,7 +203,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7af8cf6f1991ff7f",
+  "active": "14ccc017ec71acd2",
   "lastOpenFiles": [
     "meetings/2023-08-02 lkq meeting.md",
     "testing/importer testing/tco-expected-outcomes.md",

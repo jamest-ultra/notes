@@ -36,6 +36,7 @@ When importing the costs for cost import you'll need to first start with the fil
 body style = type 
 company = select company
 group = group code
+fuel group = lineage
 vehicle = licence plate 
 number = name
 currency code = code

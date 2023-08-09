@@ -31,7 +31,7 @@ When importing the costs for cost import you'll need to first start with the fil
 	- Vin
 	- Company code
 	- Group code
-	- Supplier code
+	- Supplier name
 
 - After the import you'll need to run the job on [[aws-terminal-tutorial]]
 

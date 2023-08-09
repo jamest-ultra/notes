@@ -33,7 +33,7 @@ When importing the costs for cost import you'll need to first start with the fil
 	- Group code
 	- Supplier code
 
-body style = type 
+body style = type  
 company = select company
 group = group code
 fuel group = lineage

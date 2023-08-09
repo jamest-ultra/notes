@@ -1,4 +1,4 @@
-This page will be used to outline the requirements and planning for putting together a testing plan for all of the tco requirements.
+This page will be used to outline the requirements and planning for putting together a testing plan for all of the TCO requirements.
 # Company:
 
 - [x] tcoTestingCompany ✅ 2023-08-04

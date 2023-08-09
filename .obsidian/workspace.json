@@ -4,53 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4985e7a6d2ffc16f",
-        "type": "split",
+        "id": "d5d584b35878dacc",
+        "type": "tabs",
         "children": [
           {
-            "id": "d5d584b35878dacc",
-            "type": "tabs",
-            "dimension": 71.26068376068376,
-            "children": [
-              {
-                "id": "7af8cf6f1991ff7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "testing/importer testing/tco-expected-outcomes.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "7af8cf6f1991ff7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testing/importer testing/tco-expected-outcomes.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "43f98b4e7c97ca9b",
-            "type": "tabs",
-            "dimension": 28.73931623931624,
-            "children": [
-              {
-                "id": "e8104d92600a3931",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "14ccc017ec71acd2",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,9 +94,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "e8104d92600a3931",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "53223e00ad172abe",
@@ -139,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/tco-expected-outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/tco-expected-outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,18 +153,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "testing/importer testing/tco-expected-outcomes.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "14ccc017ec71acd2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 559.5,
-    "collapsed": true
+    "width": 739.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,15 +182,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7af8cf6f1991ff7f",
+  "active": "e8104d92600a3931",
   "lastOpenFiles": [
+    "testing/importer testing/tco-expected-outcomes.md",
     "testing/importer testing/fleet-costs-importing.md",
     "testing/importer testing/inventory-importing.md",
     "testing/importer testing/tco-importing.md",
     "meetings/2023-08-02-northgate-deployment.md",
     "meetings/2023-08-02 lkq meeting.md",
     "docs/aws-terminal-tutorial.md",
-    "testing/importer testing/tco-expected-outcomes.md",
     "docs/staging.md",
     "importer.md",
     "public/csv's/~$FUEL IMPORT TEST.xlsx",

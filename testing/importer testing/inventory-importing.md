@@ -77,17 +77,5 @@ none.
 none
 
 ### Attachments:
-##### File provided by john:
-	The company needs the group setup and the vehicle and drivers to work.
 
-![[uk_roi_test_file.csv]]
-
-##### Test file:
-
-![[test-inventory-import.csv]]
-
-##### Mapping image:
-
-
-
-![[screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png]]
+![[invtestfile.csv]]

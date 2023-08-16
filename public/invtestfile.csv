@@ -1,0 +1,7 @@
+vin,reg,registration_date,lease_start_date,lease_end_date,iso_currency_code,contract_term_month,contract_month,contract_distance,last_known_odometer_date,last_known_odometer_reading,oem,make,model,model type,engine_capacity,engine_power,co2_emission,funding_method,group_code,body_style,active,fuel_type_code,supplier,Monthly Lease Instalment
+tdsultravin1,tdsultrareg1,07/05/2023,07/05/2023,10/01/2027,GBP,10/01/2025,83,102987,07/08/2023,146592,Ford,GMC,Expedition,2009,3541,261,194,hire,tds-testing-group1a,lcv,1,petrol,testSuppler1a,45
+tdsultravin2,tdsultrareg2,07/05/2022,07/05/2022,11/01/2027,GBP,11/01/2025,89,118319,07/08/2023,149035,Lotus,Chrysler,Elan,1990,2328,211,131,outright-purchase,tds-testing-group1b,hgv,1,diesel,testSupplier1b,45
+tdsultravin3,tdsultrareg3,07/05/2022,07/05/2022,12/01/2027,GBP,12/01/2025,85,112937,07/08/2023,142329,Honda,Mitsubishi,CR-V,2010,2391,294,111,lease,tds-testing-group2a,lcv,1,petrol,testSupplier1c,34
+tdsultravin4,tdsultrareg4,07/05/2022,07/05/2022,13/01/2027,GBP,13/01/2025,91,110022,07/08/2023,112324,Audi,Oldsmobile,Q5,2010,3441,158,121,hire,tds-testing-group2b,lcv,1,diesel,testSupplier2b,26
+tdsultravin5,tdsultrareg5,07/05/2021,07/05/2021,14/01/2027,GBP,14/01/2025,92,114997,07/08/2023,110192.5,Ford,GMC,Expedition,2010.5,2866,174.5,79.5,outright-purchase,tds-testing-group3a,lcv,1,petrol,testSupplier2a,257
+tdsultravin6,tdsultrareg6,07/05/2023,07/05/2023,15/01/2027,GBP,15/01/2025,94,116569.3,07/08/2023,99241.5,Lotus,Chrysler,Elan,2012.8,2842.3,151.9,55.6,lease,tds-testing-group3b,hgv,1,diesel,testSupplier1c,234

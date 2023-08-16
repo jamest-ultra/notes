@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing/importer testing/fuel-importing.md",
+                "file": "testing/importer testing/inventory-importing.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/fuel-importing.md",
+                "file": "testing/importer testing/inventory-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/fuel-importing.md",
+                "file": "testing/importer testing/inventory-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/importer testing/fuel-importing.md"
+                "file": "testing/importer testing/inventory-importing.md"
               }
             }
           },
@@ -204,11 +204,13 @@
   },
   "active": "771a9760b8787aab",
   "lastOpenFiles": [
+    "public/invtestfile.csv",
+    "testing/importer testing/fuel-importing.md",
+    "public/test fuel import.xlsx",
     "testing/importer testing/fleet-costs-importing.md",
     "public/costimport.xlsx",
     "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
     "testing/importer testing/tco-expected-outcomes.md",
-    "testing/importer testing/fuel-importing.md",
     "testing/importer testing/TCO-report-testing.md",
     "testing/importer testing/inventory-importing.md",
     "meetings/2023-08-09 stakeholder meeting..md",
@@ -225,7 +227,6 @@
     "public/csv's/9BD95A10",
     "public/csv's/23495A10",
     "public/csv's/6D585A10",
-    "public/csv's/invImport.csv",
     "to-do-list.md",
     "docs/uat.md",
     "public/templates/main-template.md",

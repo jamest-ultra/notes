@@ -116,7 +116,7 @@ none
 
 ### Attachments:
 
-![[costImport.xlsx]]
+![[costImport.csv]]
 
 working mapping:
 

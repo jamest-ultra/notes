@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 595.5
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +189,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "771a9760b8787aab",
+  "active": "14ccc017ec71acd2",
   "lastOpenFiles": [
     "testing/importer testing/fuel-importing.md",
     "docs/uat.md",

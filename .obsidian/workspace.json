@@ -132,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "testing/importer testing/inventory-importing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,7 +198,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "771a9760b8787aab",
+  "active": "e8104d92600a3931",
   "lastOpenFiles": [
     "testing/importer testing/inventory-importing.md",
     "testing/importer testing/fleet-costs-importing.md",

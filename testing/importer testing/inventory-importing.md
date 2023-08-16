@@ -32,16 +32,15 @@ When importing the costs for cost import you'll need to first start with the fil
 	- Company code
 	- Group code
 	- Supplier code
-
-body style = type  
-company = select company
-group = group code
-fuel group = lineage
-vehicle = licence plate 
-number = name
-currency code = code
-
-[[#Mapping image]]
+	- body style = type 
+	- company = select company
+	- group = group code
+	- fuel group = lineage
+	- vehicle = licence plate 
+	- body style = type  
+	- number = name
+	- currency code = code
+## Mapping image
 
 After the import you'll need to run the job on [[aws-terminal-tutorial]]
 
@@ -50,18 +49,6 @@ After the import you'll need to run the job on [[aws-terminal-tutorial]]
 ```mermaid
 flowchart TD
 A[Take file] --> B[Check file] --> C[Run through import] --> D[Compare file with transactions] --> E[Compare file with transaction links]
-```
-
-```text
-compare file with inventory item
-
-compare file with the inventory mapping
-
-Make sure funding type is set
-
-check entity mapping
-
-Go to vehicle and check data is correct
 ```
 
 ### Related Notes:

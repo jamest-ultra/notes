@@ -1,22 +1,26 @@
 {
 	"nodes":[
+		{"id":"82b98763b830a3e0","x":-145,"y":-560,"width":290,"height":900,"type":"group","label":"Main workflow"},
 		{"id":"6cad603408efc5bb","x":420,"y":-270,"width":750,"height":245,"type":"group","label":"Inventory Import"},
-		{"id":"82b98763b830a3e0","x":-145,"y":-560,"width":290,"height":595,"type":"group","label":"Main workflow"},
 		{"type":"text","text":"testCompany","id":"4622633bc6b1995e","x":-125,"y":-540,"width":250,"height":60},
-		{"type":"text","text":"Company config","id":"18e48564a2a9e6a8","x":-125,"y":-380,"width":250,"height":60},
-		{"id":"62de6cd2d63e9d43","x":-125,"y":-220,"width":250,"height":60,"type":"text","text":"Inventory import"},
-		{"type":"text","text":"Fuel import","id":"a7af888e535a5c3e","x":-125,"y":-45,"width":250,"height":60},
-		{"type":"text","text":"Groups","id":"3757d4791ad550e4","x":440,"y":-95,"width":250,"height":50},
 		{"type":"text","text":"Vehicles","id":"3210800907f96482","x":440,"y":-250,"width":250,"height":60},
-		{"id":"71e551a0912ed50e","x":900,"y":-190,"width":250,"height":65,"type":"text","text":"Vehicle - Groups allocations"}
+		{"id":"71e551a0912ed50e","x":900,"y":-190,"width":250,"height":65,"type":"text","text":"Vehicle - Groups allocations"},
+		{"id":"79a235e5c514fb8e","x":-560,"y":-45,"width":250,"height":60,"type":"text","text":"transaction fuel connection"},
+		{"type":"text","text":"Groups","id":"3757d4791ad550e4","x":440,"y":-95,"width":250,"height":50},
+		{"type":"text","text":"Company config","id":"18e48564a2a9e6a8","x":-125,"y":-400,"width":250,"height":60},
+		{"type":"text","text":"Groups","id":"234403cb2f58c4b0","x":-125,"y":-250,"width":250,"height":50},
+		{"type":"text","text":"Fuel import","id":"a7af888e535a5c3e","x":-125,"y":40,"width":250,"height":60},
+		{"id":"62de6cd2d63e9d43","x":-125,"y":-95,"width":250,"height":60,"type":"text","text":"Inventory import"}
 	],
 	"edges":[
 		{"id":"7fb0fc50ee1ff2c2","fromNode":"4622633bc6b1995e","fromSide":"bottom","toNode":"18e48564a2a9e6a8","toSide":"top"},
 		{"id":"1b96c70b05359330","fromNode":"3757d4791ad550e4","fromSide":"right","toNode":"71e551a0912ed50e","toSide":"left"},
 		{"id":"830758111213b45d","fromNode":"3210800907f96482","fromSide":"right","toNode":"71e551a0912ed50e","toSide":"left"},
 		{"id":"a66fbb130ab770c6","fromNode":"62de6cd2d63e9d43","fromSide":"bottom","toNode":"a7af888e535a5c3e","toSide":"top"},
-		{"id":"ada8d6d9c53cc6c2","fromNode":"18e48564a2a9e6a8","fromSide":"bottom","toNode":"62de6cd2d63e9d43","toSide":"top"},
 		{"id":"da91baf00be8614b","fromNode":"62de6cd2d63e9d43","fromSide":"right","toNode":"3210800907f96482","toSide":"left"},
-		{"id":"8808a7457c17185e","fromNode":"62de6cd2d63e9d43","fromSide":"right","toNode":"3757d4791ad550e4","toSide":"left"}
+		{"id":"8808a7457c17185e","fromNode":"62de6cd2d63e9d43","fromSide":"right","toNode":"3757d4791ad550e4","toSide":"left"},
+		{"id":"a66b6230c336fb4a","fromNode":"a7af888e535a5c3e","fromSide":"left","toNode":"79a235e5c514fb8e","toSide":"right"},
+		{"id":"c2b1a0fb1781837f","fromNode":"18e48564a2a9e6a8","fromSide":"bottom","toNode":"234403cb2f58c4b0","toSide":"top"},
+		{"id":"87174810093cffc6","fromNode":"234403cb2f58c4b0","fromSide":"bottom","toNode":"62de6cd2d63e9d43","toSide":"top"}
 	]
 }

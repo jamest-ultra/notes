@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3210800907f96482","x":-125,"y":120,"width":250,"height":60,"type":"text","text":"Vehicles"},
+		{"id":"3757d4791ad550e4","x":-460,"y":125,"width":250,"height":50,"type":"text","text":"Groups"},
+		{"id":"a7af888e535a5c3e","x":240,"y":120,"width":250,"height":60,"type":"text","text":"Company config"},
+		{"id":"4622633bc6b1995e","x":-125,"y":-160,"width":250,"height":60,"type":"text","text":"testCompany"}
+	],
+	"edges":[
+		{"id":"364c51910beb5eae","fromNode":"4622633bc6b1995e","fromSide":"bottom","toNode":"3210800907f96482","toSide":"top"},
+		{"id":"0e30e64d416fc425","fromNode":"4622633bc6b1995e","fromSide":"bottom","toNode":"3757d4791ad550e4","toSide":"top"},
+		{"id":"45d3c562aa573660","fromNode":"4622633bc6b1995e","fromSide":"bottom","toNode":"a7af888e535a5c3e","toSide":"top"}
+	]
+}

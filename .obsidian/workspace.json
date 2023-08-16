@@ -11,11 +11,14 @@
             "id": "0af83283da387b68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
-                "mode": "source",
-                "source": false
+                "file": "testing/importer testing/TCO-report-testing.canvas",
+                "viewState": {
+                  "x": -60.09930075230545,
+                  "y": -121.67434899766519,
+                  "zoom": -0.6666666666666667
+                }
               }
             }
           }
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
+                "file": "testing/importer testing/TCO-report-testing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
+                "file": "testing/importer testing/TCO-report-testing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md"
+                "file": "testing/importer testing/TCO-report-testing.canvas"
               }
             }
           },
@@ -188,11 +191,13 @@
   },
   "active": "0af83283da387b68",
   "lastOpenFiles": [
+    "testing/importer testing/TCO-report-testing.md",
+    "testing/importer testing/TCO-report-testing.canvas",
+    "testing/importer testing/inventory-importing.md",
+    "testing/importer testing/fleet-costs-importing.md",
     "testing/importer testing/tco-importing.md",
     "testing/importer testing/tco-expected-outcomes.md",
     "meetings/2023-08-09 stakeholder meeting..md",
-    "testing/importer testing/inventory-importing.md",
-    "testing/importer testing/fleet-costs-importing.md",
     "meetings/2023-08-02-northgate-deployment.md",
     "meetings/2023-08-02 lkq meeting.md",
     "docs/aws-terminal-tutorial.md",

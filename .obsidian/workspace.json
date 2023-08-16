@@ -11,14 +11,11 @@
             "id": "771a9760b8787aab",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
-                "viewState": {
-                  "x": 319.01245671200985,
-                  "y": 804.8466020626046,
-                  "zoom": -0.9999999999999996
-                }
+                "file": "testing/importer testing/inventory-importing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -119,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
+                "file": "testing/importer testing/inventory-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
+                "file": "testing/importer testing/inventory-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas"
+                "file": "testing/importer testing/inventory-importing.md"
               }
             }
           },

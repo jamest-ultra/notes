@@ -1,20 +1,21 @@
 {
 	"nodes":[
 		{"type":"group","id":"82b98763b830a3e0","x":-145,"y":-560,"width":290,"height":919,"label":"Main workflow"},
-		{"type":"group","id":"6cad603408efc5bb","x":420,"y":-270,"width":750,"height":175,"label":"Inventory Import"},
+		{"type":"group","id":"6cad603408efc5bb","x":400,"y":-560,"width":750,"height":175,"label":"Inventory Import"},
 		{"type":"group","id":"71999e0cfd4ad076","x":-1000,"y":-65,"width":650,"height":160,"label":"Fuel import"},
 		{"type":"text","text":"testCompany","id":"4622633bc6b1995e","x":-125,"y":-540,"width":250,"height":60},
-		{"type":"text","text":"Company config","id":"18e48564a2a9e6a8","x":-125,"y":-400,"width":250,"height":60},
-		{"type":"text","text":"Groups","id":"234403cb2f58c4b0","x":-125,"y":-250,"width":250,"height":50},
-		{"type":"text","text":"Inventory import","id":"62de6cd2d63e9d43","x":-125,"y":-95,"width":250,"height":60},
-		{"type":"text","text":"Vehicle - Groups allocations","id":"71e551a0912ed50e","x":900,"y":-190,"width":250,"height":65},
-		{"type":"text","text":"Vehicles","id":"3210800907f96482","x":440,"y":-250,"width":250,"height":60},
-		{"type":"file","file":"testing/importer testing/inventory-importing.md","id":"afef5da946604383","x":823,"y":159,"width":400,"height":400},
-		{"type":"text","text":"Fuel import","id":"a7af888e535a5c3e","x":-125,"y":60,"width":250,"height":60},
 		{"type":"text","text":"entity mapping to vehicle","id":"05dbed08b09213d8","x":-980,"y":15,"width":250,"height":60},
 		{"type":"text","text":"fuel transaction","id":"79a235e5c514fb8e","x":-620,"y":-45,"width":250,"height":60},
 		{"type":"file","file":"testing/importer testing/fuel-importing.md","id":"b9680cd2b6110d01","x":-1020,"y":-680,"width":400,"height":400},
-		{"id":"765842cd5363d810","x":-125,"y":240,"width":250,"height":60,"type":"text","text":"Fleet costs import"}
+		{"type":"text","text":"Company config","id":"18e48564a2a9e6a8","x":-125,"y":-400,"width":250,"height":60},
+		{"type":"text","text":"Groups","id":"234403cb2f58c4b0","x":-125,"y":-250,"width":250,"height":50},
+		{"type":"text","text":"Inventory import","id":"62de6cd2d63e9d43","x":-125,"y":-95,"width":250,"height":60},
+		{"type":"text","text":"Fuel import","id":"a7af888e535a5c3e","x":-125,"y":60,"width":250,"height":60},
+		{"type":"text","text":"Fleet costs import","id":"765842cd5363d810","x":-125,"y":240,"width":250,"height":60},
+		{"type":"text","text":"Vehicles","id":"3210800907f96482","x":420,"y":-540,"width":250,"height":60},
+		{"type":"text","text":"Vehicle - Groups allocations","id":"71e551a0912ed50e","x":880,"y":-480,"width":250,"height":65},
+		{"type":"file","file":"testing/importer testing/inventory-importing.md","id":"afef5da946604383","x":930,"y":-200,"width":400,"height":400},
+		{"id":"038848ec97584d2b","x":420,"y":300,"width":400,"height":400,"type":"file","file":"testing/importer testing/fleet-costs-importing.md"}
 	],
 	"edges":[
 		{"id":"7fb0fc50ee1ff2c2","fromNode":"4622633bc6b1995e","fromSide":"bottom","toNode":"18e48564a2a9e6a8","toSide":"top"},
@@ -27,6 +28,7 @@
 		{"id":"5e664d6e11d8b51a","fromNode":"79a235e5c514fb8e","fromSide":"left","toNode":"05dbed08b09213d8","toSide":"right"},
 		{"id":"df9b4af6ec445055","fromNode":"71999e0cfd4ad076","fromSide":"top","toNode":"b9680cd2b6110d01","toSide":"bottom"},
 		{"id":"ac2256ddddb1eda4","fromNode":"6cad603408efc5bb","fromSide":"bottom","toNode":"afef5da946604383","toSide":"top"},
-		{"id":"4d42c981a44ddfea","fromNode":"a7af888e535a5c3e","fromSide":"bottom","toNode":"765842cd5363d810","toSide":"top"}
+		{"id":"4d42c981a44ddfea","fromNode":"a7af888e535a5c3e","fromSide":"bottom","toNode":"765842cd5363d810","toSide":"top"},
+		{"id":"ff1542ad48c3a325","fromNode":"765842cd5363d810","fromSide":"right","toNode":"038848ec97584d2b","toSide":"left"}
 	]
 }

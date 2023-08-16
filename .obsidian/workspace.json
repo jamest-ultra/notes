@@ -26,11 +26,14 @@
             "id": "771a9760b8787aab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
-                "mode": "source",
-                "source": false
+                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
+                "viewState": {
+                  "x": 91.03712658988374,
+                  "y": 158.38124644395103,
+                  "zoom": -0.701764418743172
+                }
               }
             }
           }
@@ -132,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testing/importer testing/fleet-costs-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testing/importer testing/fleet-costs-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "testing/importer testing/fleet-costs-importing.md"
+              }
             }
           },
           {
@@ -198,8 +205,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8104d92600a3931",
+  "active": "771a9760b8787aab",
   "lastOpenFiles": [
+    "to-do-list.md",
     "testing/importer testing/inventory-importing.md",
     "testing/importer testing/fleet-costs-importing.md",
     "testing/importer testing/fuel-importing.md",
@@ -222,7 +230,6 @@
     "public/csv's/~$FuelImport.xlsx",
     "public/csv's/9BD95A10",
     "public/csv's/23495A10",
-    "to-do-list.md",
     "docs/uat.md",
     "public/templates/main-template.md",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",

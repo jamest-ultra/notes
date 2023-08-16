@@ -15,9 +15,9 @@
               "state": {
                 "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
                 "viewState": {
-                  "x": 327.7332494509026,
-                  "y": 206.2711337764041,
-                  "zoom": -1.2278689632381872
+                  "x": -564.468820050583,
+                  "y": -65.53483967683603,
+                  "zoom": -0.6666666666666667
                 }
               }
             }
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,15 +192,22 @@
   },
   "active": "771a9760b8787aab",
   "lastOpenFiles": [
-    "to-do-list.md",
-    "testing/importer testing/inventory-importing.md",
-    "testing/importer testing/fleet-costs-importing.md",
-    "testing/importer testing/fuel-importing.md",
-    "public/invtestfile.csv",
-    "public/test fuel import.xlsx",
-    "public/costimport.xlsx",
     "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
+    "public/csv's/BCBFF220",
+    "public/csv's/ED2FF220",
+    "public/csv's/F52FF220",
+    "public/csv's/C58CF220",
+    "public/csv's/323BF220",
+    "testing/importer testing/fleet-costs-importing.md",
+    "public/csv's/~$costimport.xlsx",
+    "testing/importer testing/fuel-importing.md",
+    "public/csv's/~$test fuel import.xlsx",
+    "testing/importer testing/inventory-importing.md",
+    "public/csv's/test fuel import.xlsx",
+    "public/csv's/invtestfile.csv",
+    "public/csv's/costimport.xlsx",
     "testing/importer testing/tco-expected-outcomes.md",
+    "to-do-list.md",
     "testing/importer testing/TCO-report-testing.md",
     "meetings/2023-08-09 stakeholder meeting..md",
     "meetings/2023-08-02-northgate-deployment.md",
@@ -207,13 +215,6 @@
     "docs/aws-terminal-tutorial.md",
     "docs/staging.md",
     "importer.md",
-    "public/csv's/~$FUEL IMPORT TEST.xlsx",
-    "public/csv's/108DFA10",
-    "public/csv's/F3F08A10",
-    "public/csv's/~$InvImport.xlsx",
-    "public/csv's/~$FuelImport.xlsx",
-    "public/csv's/9BD95A10",
-    "public/csv's/23495A10",
     "docs/uat.md",
     "public/templates/main-template.md",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",

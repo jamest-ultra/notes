@@ -1,4 +1,4 @@
-### Fleet costs importing:
+![[costimport.xlsx]]### Fleet costs importing:
 
 This page serves as a guide for testing the importer functionality related to cost importing. The testing process is dated [[#Date]] and revolves around evaluating the effectiveness and accuracy of the cost importing feature. The page is organized into several sections for easy navigation.
 

@@ -10,8 +10,7 @@ This page serves as a guide for testing the importer functionality related to TC
 
 [[importer]] 
 
-### Summary:
-
+### Sum
 This testing will cover the importer test for costs.
 
 ### Table of Contents:

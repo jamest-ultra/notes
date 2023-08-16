@@ -21,7 +21,9 @@
 		{"id":"a5e5c9125bc80b6f","x":-560,"y":-70,"width":250,"height":60,"type":"text","text":"Suppliers"},
 		{"type":"text","text":"Vehicle - Groups allocations","id":"71e551a0912ed50e","x":1300,"y":-195,"width":250,"height":65},
 		{"type":"text","text":"Vehicles","id":"3210800907f96482","x":920,"y":-230,"width":250,"height":60},
-		{"id":"6cd64ef78f790aa8","x":520,"y":-190,"width":250,"height":60,"type":"text","text":"Suppliers"}
+		{"id":"6cd64ef78f790aa8","x":520,"y":-190,"width":250,"height":60,"type":"text","text":"Suppliers"},
+		{"id":"458741e6787b9ed2","x":1600,"y":-20,"width":250,"height":140,"type":"text","text":"- Bosch\n- Denso\n- Continental\n- Valeo"},
+		{"id":"f3c6b01c9f57dffc","x":-1340,"y":180,"width":250,"height":137,"type":"text","text":"- DHL\n- Turners\n- Wincanton\n- Hoyer"}
 	],
 	"edges":[
 		{"id":"7fb0fc50ee1ff2c2","fromNode":"4622633bc6b1995e","fromSide":"bottom","toNode":"18e48564a2a9e6a8","toSide":"top"},
@@ -41,6 +43,8 @@
 		{"id":"9e3d2e22e9032eda","fromNode":"234403cb2f58c4b0","fromSide":"right","toNode":"8967385dd47ea3c6","toSide":"left"},
 		{"id":"83e9654677fdcb60","fromNode":"8967385dd47ea3c6","fromSide":"right","toNode":"487d089b33304388","toSide":"left"},
 		{"id":"c753467a87b5dcb6","fromNode":"a5e5c9125bc80b6f","fromSide":"left","toNode":"79a235e5c514fb8e","toSide":"right"},
-		{"id":"ca67d8e229e8068b","fromNode":"6cd64ef78f790aa8","fromSide":"right","toNode":"3210800907f96482","toSide":"left"}
+		{"id":"ca67d8e229e8068b","fromNode":"6cd64ef78f790aa8","fromSide":"right","toNode":"3210800907f96482","toSide":"left"},
+		{"id":"81ee28fc4ad1d7c4","fromNode":"6cad603408efc5bb","fromSide":"right","toNode":"458741e6787b9ed2","toSide":"top"},
+		{"id":"ba6458cb5782b986","fromNode":"71999e0cfd4ad076","fromSide":"bottom","toNode":"f3c6b01c9f57dffc","toSide":"top"}
 	]
 }

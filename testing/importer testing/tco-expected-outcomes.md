@@ -39,8 +39,6 @@ This page will be used to outline the requirements and planning for putting toge
 - Fuel Type Code
 - Supplier
 - Direct Purchase
-
-![[InvImport.xlsx]]
 ### Suppliers
 
 - [ ] testSuppler1a > testSupplier1b > testSupplier1c
@@ -67,9 +65,6 @@ This page will be used to outline the requirements and planning for putting toge
 - Site Name
 - Site Phone Number
 - Country
-
-![[FuelImport.xlsx]]
-
 ### Supplier
 
 testSupplier1a > testSupplier1b > testSupplier1c
@@ -83,7 +78,3 @@ testSupplier3a
 
 
 # files:
-
-![[FUEL IMPORT TEST.xlsx]]
-
-![[invImport.csv]]

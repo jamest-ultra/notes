@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "testing/importer testing/TCO-report-testing.canvas",
+                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
                 "viewState": {
-                  "x": -60.09930075230545,
-                  "y": -121.67434899766519,
-                  "zoom": -0.6666666666666667
+                  "x": 77.9099083022692,
+                  "y": 176.46958400902994,
+                  "zoom": -1
                 }
               }
             }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/TCO-report-testing.canvas",
+                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/TCO-report-testing.canvas",
+                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/importer testing/TCO-report-testing.canvas"
+                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas"
               }
             }
           },
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +191,8 @@
   },
   "active": "0af83283da387b68",
   "lastOpenFiles": [
+    "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
     "testing/importer testing/TCO-report-testing.md",
-    "testing/importer testing/TCO-report-testing.canvas",
     "testing/importer testing/inventory-importing.md",
     "testing/importer testing/fleet-costs-importing.md",
     "testing/importer testing/tco-importing.md",

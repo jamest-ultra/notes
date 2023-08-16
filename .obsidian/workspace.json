@@ -4,25 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "a7a13b9552197465",
+        "id": "904c20640485d6c4",
         "type": "tabs",
         "children": [
           {
-            "id": "0af83283da387b68",
+            "id": "eb242b17a31df2f9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
                 "viewState": {
-                  "x": 596.2890821230172,
-                  "y": 12.046337663453002,
-                  "zoom": -0.3333333333333334
+                  "x": 101.5,
+                  "y": -60.5,
+                  "zoom": -1.0350977520765052
                 }
               }
             }
+          },
+          {
+            "id": "771a9760b8787aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testing/importer testing/fuel-importing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
+                "file": "testing/importer testing/fuel-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
+                "file": "testing/importer testing/fuel-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas"
+                "file": "testing/importer testing/fuel-importing.md"
               }
             }
           },
@@ -189,14 +202,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0af83283da387b68",
+  "active": "771a9760b8787aab",
   "lastOpenFiles": [
+    "testing/importer testing/fleet-costs-importing.md",
+    "public/costimport.xlsx",
     "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
+    "testing/importer testing/tco-expected-outcomes.md",
+    "testing/importer testing/fuel-importing.md",
     "testing/importer testing/TCO-report-testing.md",
     "testing/importer testing/inventory-importing.md",
-    "testing/importer testing/fleet-costs-importing.md",
-    "testing/importer testing/tco-importing.md",
-    "testing/importer testing/tco-expected-outcomes.md",
     "meetings/2023-08-09 stakeholder meeting..md",
     "meetings/2023-08-02-northgate-deployment.md",
     "meetings/2023-08-02 lkq meeting.md",
@@ -212,7 +226,6 @@
     "public/csv's/23495A10",
     "public/csv's/6D585A10",
     "public/csv's/invImport.csv",
-    "public/csv's/FUEL IMPORT TEST.xlsx",
     "to-do-list.md",
     "docs/uat.md",
     "public/templates/main-template.md",

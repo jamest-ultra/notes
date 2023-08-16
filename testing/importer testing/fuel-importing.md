@@ -64,13 +64,3 @@ none
 
 ### Attachments:
 
-#### File provided by john:
-
-![[Brighton fuel.csv]]
-
-#### Test file:
-
-![[test-fuel-import.csv]]
-#### Mapping image:
-
-![[screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png]]

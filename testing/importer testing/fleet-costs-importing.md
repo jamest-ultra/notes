@@ -116,26 +116,7 @@ none
 
 ### Attachments:
 
-File provided by john:
-	The company needs the group setup and the vehicle and drivers to work.
-
-![[Key accounts - LKQ - Maintenance & OOS Costs kopie 1 copy.xlsx]]
-
-Test file:
-
-Best to use the test file.
-
-To use the test file you'll need to setup two groups within demo.
-- Brighton
-- Portsmouth
-
-![[test-cost-import.csv]]
-
-return (TestCostImport2 works):
-
-![[Pasted image 20230728142116.png]]
-
-![[Pasted image 20230728133726.png]]
+![[costimport.xlsx]]
 
 working mapping:
 

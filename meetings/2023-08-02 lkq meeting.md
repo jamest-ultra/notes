@@ -13,4 +13,4 @@
 - Once I get the data from Lianne,
 	- Import data for Uk and Ireland
 		- [x] [[inventory-importing]] (@2023-08-03 16:13) ✅ 2023-08-03
-		- [x] [[tco-importing]] (@2023-08-04) ✅ 2023-08-03
+		- [x] [[fuel-importing]] (@2023-08-04) ✅ 2023-08-03

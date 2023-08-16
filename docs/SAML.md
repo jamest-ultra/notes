@@ -17,4 +17,3 @@ Requested attributes
 - entity ID
 - X509 certificate
 - Claims
-- 

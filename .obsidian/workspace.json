@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "d05e26196024cdc3",
@@ -117,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SAML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SAML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/SAML.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 595.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,10 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "771a9760b8787aab",
+  "active": "e8104d92600a3931",
   "lastOpenFiles": [
-    "to-do-list.md",
     "docs/SAML.md",
+    "to-do-list.md",
     "public/csv's/8711E320",
     "public/csv's/8CBAD320",
     "public/csv's/B4BAD320",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
+                "file": "docs/aws-terminal-tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
+                "file": "docs/aws-terminal-tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
+                "file": "docs/aws-terminal-tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md"
+                "file": "docs/aws-terminal-tutorial.md"
               }
             }
           },
@@ -189,6 +189,13 @@
   },
   "active": "771a9760b8787aab",
   "lastOpenFiles": [
+    "testing/importer testing/inventory-importing.md",
+    "public/csv's/~$fuelImport.xlsx",
+    "public/csv's/public - Shortcut.lnk",
+    "public/csv's/FCAA4320",
+    "public/csv's/4BAA4320",
+    "public/csv's/94AA4320",
+    "public/csv's/F9974320",
     "testing/importer testing/tco-importing.md",
     "testing/importer testing/fuel-importing.md",
     "public/csv's/fuelImport.xlsx",
@@ -196,14 +203,7 @@
     "public/csv's/invImport.csv",
     "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
     "testing/importer testing/tco-expected-outcomes.md",
-    "testing/importer testing/inventory-importing.md",
     "public/csv's/DA623320",
-    "public/csv's/29C13320",
-    "public/csv's/81803320",
-    "public/csv's/~$test fuel import.xlsx",
-    "public/csv's/003E2320",
-    "public/csv's/37192320",
-    "public/csv's/35E32320",
     "to-do-list.md",
     "testing/importer testing/TCO-report-testing.md",
     "meetings/2023-08-09 stakeholder meeting..md",

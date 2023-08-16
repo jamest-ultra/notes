@@ -29,9 +29,9 @@ When importing the costs for cost import you'll need to first start with the fil
 	We need:
 	- vrn
 	- Vin
-	- Company code
-	- Group code
-	- Supplier code
+	- Company = code
+	- Group = code
+	- Supplier = code
 	- body style = type 
 	- company = select company
 	- group = group code

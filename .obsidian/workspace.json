@@ -31,7 +31,7 @@
                 "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
                 "viewState": {
                   "x": 840.3882457584066,
-                  "y": 170.17827005723325,
+                  "y": 613.0631635563609,
                   "zoom": -0.6666666666666667
                 }
               }
@@ -205,7 +205,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "771a9760b8787aab",
+  "active": "14ccc017ec71acd2",
   "lastOpenFiles": [
     "to-do-list.md",
     "testing/importer testing/inventory-importing.md",

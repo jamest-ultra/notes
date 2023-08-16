@@ -27,7 +27,7 @@ This testing will cover the importer test for costs.
 When importing the costs for cost import you'll need to first start with the file. I've attached the test files bellow [[#Attachments]].  
 
 	We need:
-	- Reg
+	- vrn
 	- Vin
 	- Company code
 	- Group code

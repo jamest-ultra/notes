@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing/importer testing/tco-importing.md",
+                "file": "to-do-list.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/tco-importing.md",
+                "file": "to-do-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/tco-importing.md",
+                "file": "to-do-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/importer testing/tco-importing.md"
+                "file": "to-do-list.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "771a9760b8787aab",
   "lastOpenFiles": [
+    "testing/importer testing/tco-importing.md",
     "public/csv's/86856320",
     "public/csv's/9A556320",
     "public/csv's/D6556320",
@@ -203,8 +204,6 @@
     "public/csv's/F5145320",
     "public/csv's/6FE35320",
     "public/csv's/47715320",
-    "public/csv's/public - Shortcut.lnk",
-    "testing/importer testing/tco-importing.md",
     "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
     "to-do-list.md",
     "testing/importer testing/TCO-report-testing.md",

@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67c819d0fa6f3fc3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -188,6 +196,14 @@
   },
   "active": "771a9760b8787aab",
   "lastOpenFiles": [
+    "public/csv's/539F4420",
+    "public/csv's/B09F4420",
+    "public/csv's/6B8F4420",
+    "public/csv's/519C4420",
+    "public/csv's/670C4420",
+    "public/csv's/F3CB4420",
+    "public/csv's/2B9B4420",
+    "public/csv's/968B4420",
     "testing/importer testing/inventory-importing.md",
     "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
     "testing/importer testing/fuel-importing.md",
@@ -198,13 +214,6 @@
     "public/csv's/8711E320",
     "public/csv's/8CBAD320",
     "public/csv's/B4BAD320",
-    "public/csv's/3129D320",
-    "public/csv's/91C8D320",
-    "public/csv's/F34DA320",
-    "public/csv's/2A3DA320",
-    "public/csv's/823DA320",
-    "public/csv's/642DA320",
-    "public/csv's/D12DA320",
     "testing/importer testing/tco-importing.md",
     "testing/importer testing/tco-expected-outcomes.md",
     "docs/aws-terminal-tutorial.md",

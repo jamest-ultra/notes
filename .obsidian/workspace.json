@@ -11,8 +11,15 @@
             "id": "55a71e20847fb75b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
+                "viewState": {
+                  "x": 235,
+                  "y": 60.5,
+                  "zoom": -1.7600230107539547
+                }
+              }
             }
           }
         ]
@@ -112,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas"
+              }
             }
           },
           {
@@ -178,8 +189,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "771a9760b8787aab",
+  "active": "55a71e20847fb75b",
   "lastOpenFiles": [
+    "testing/importer testing/inventory-importing.md",
     "public/csv's/04BC7820",
     "public/csv's/748C7820",
     "public/csv's/9E7C7820",
@@ -194,8 +206,6 @@
     "public/csv's/B09F4420",
     "public/csv's/6B8F4420",
     "public/csv's/519C4420",
-    "public/csv's/670C4420",
-    "testing/importer testing/inventory-importing.md",
     "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
     "docs/uat.md",
     "docs/staging.md",

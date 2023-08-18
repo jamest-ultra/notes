@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f72468bebda1ec4b",
+        "id": "89b18bdbc3eb3f4d",
         "type": "tabs",
         "children": [
           {
-            "id": "55a71e20847fb75b",
+            "id": "113a18ab8b0fd6fb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
-                "viewState": {
-                  "x": 235,
-                  "y": 60.5,
-                  "zoom": -1.7600230107539547
-                }
+                "file": "testing/importer testing/fuel-importing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -119,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
+                "file": "testing/importer testing/fuel-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
+                "file": "testing/importer testing/fuel-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/importer testing/tco-fuel-inventory-report-testing.canvas"
+                "file": "testing/importer testing/fuel-importing.md"
               }
             }
           },
@@ -189,8 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55a71e20847fb75b",
+  "active": "113a18ab8b0fd6fb",
   "lastOpenFiles": [
+    "testing/importer testing/fuel-importing.md",
+    "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
     "testing/importer testing/inventory-importing.md",
     "public/csv's/04BC7820",
     "public/csv's/748C7820",
@@ -200,13 +199,11 @@
     "public/csv's/E40C7820",
     "docs/SAML.md",
     "public/templates/main-template.md",
-    "testing/importer testing/fuel-importing.md",
     "meetings/2023-08-09 stakeholder meeting..md",
     "public/csv's/539F4420",
     "public/csv's/B09F4420",
     "public/csv's/6B8F4420",
     "public/csv's/519C4420",
-    "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
     "docs/uat.md",
     "docs/staging.md",
     "to-do-list.md",

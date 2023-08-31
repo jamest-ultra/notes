@@ -11,9 +11,11 @@
             "id": "cb6b671cef189540",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "testing/release-Testing"
+                "file": "testing/importer/fuel-importing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,8 +108,12 @@
             "id": "113a18ab8b0fd6fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "testing/testing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -123,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testing/importer/fuel-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testing/importer/fuel-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "testing/importer/fuel-importing.md"
+              }
             }
           },
           {
@@ -189,16 +199,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96107cf7a3046864",
+  "active": "cb6b671cef189540",
   "lastOpenFiles": [
+    "testing/importer/importer.md",
+    "testing/importer/importer-Testing.md",
+    "testing/importer/fuel-importing.md",
+    "testing/testing.md",
     "testing/release-Testing/2.6.3.md",
     "testing/cypress/spec-Requirements.md",
-    "testing/importer-Testing/tco-fuel-inventory-report-testing.canvas",
+    "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "docs/aws-Terminal-Tutorial.md",
     "docs/staging.md",
     "testing/cypress/cypress.md",
     "testing/release-Testing/release-Testing.md",
-    "testing/testing.md",
     "public/public.md",
     "meetings/meetings.md",
     "docs/docs.md",
@@ -206,7 +219,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "meetings/2023-08-31-Retro-Time.md",
-    "testing/importer-Testing/fuel-importing.md",
     "public/templates/main-Template.md",
     "public/images/Pasted image 20230728142116.png",
     "meetings/2023-08-09-Stakeholder-Meeting.md",
@@ -217,17 +229,16 @@
     "testing/cypress",
     "Untitled",
     "to-do-list.md",
-    "testing/importer-Testing/inventory-importing.md",
+    "testing/importer/inventory-importing.md",
     "testing/release-Testing",
     "public/csv's/04BC7820",
     "public/csv's/748C7820",
     "public/csv's/9E7C7820",
     "public/csv's/D97C7820",
     "public/csv's/575C7820",
-    "testing/importer-Testing/tco-importing.md",
+    "testing/importer/tco-importing.md",
     "testing/importer testing/tco-expected-outcomes.md",
     "testing/importer testing/TCO-report-testing.md",
-    "importer.md",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png",
     "ultraportal/docs/Untitled.canvas",

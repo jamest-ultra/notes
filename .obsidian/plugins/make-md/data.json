@@ -39,7 +39,14 @@
       "testing/release-Testing",
       "testing/cypress",
       "testing/importer-Testing",
-      "testing/release-Testing"
+      "testing/release-Testing",
+      "testing",
+      "public",
+      "meetings",
+      "docs",
+      "testing",
+      "testing/importer-Testing",
+      "testing/importer"
     ]
   },
   "expandedSpaces": [
@@ -76,7 +83,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693496082747,
+  "spacesAutoBackupLast": 1693496145966,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

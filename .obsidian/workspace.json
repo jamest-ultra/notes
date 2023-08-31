@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
+                "file": "testing/General/2.6.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 347.5
   },
   "right": {
     "id": "d05e26196024cdc3",
@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer testing/inventory-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "testing/importer testing/inventory-importing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5,
-    "collapsed": true
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,11 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "113a18ab8b0fd6fb",
+  "active": "771a9760b8787aab",
   "lastOpenFiles": [
+    "testing/General/2.6.3.md",
+    "to-do-list.md",
+    "testing/importer testing/inventory-importing.md",
+    "testing/General",
     "testing/importer testing/fuel-importing.md",
     "testing/importer testing/tco-fuel-inventory-report-testing.canvas",
-    "testing/importer testing/inventory-importing.md",
     "public/csv's/04BC7820",
     "public/csv's/748C7820",
     "public/csv's/9E7C7820",
@@ -204,10 +202,8 @@
     "public/csv's/539F4420",
     "public/csv's/B09F4420",
     "public/csv's/6B8F4420",
-    "public/csv's/519C4420",
     "docs/uat.md",
     "docs/staging.md",
-    "to-do-list.md",
     "testing/importer testing/tco-importing.md",
     "testing/importer testing/tco-expected-outcomes.md",
     "docs/aws-terminal-tutorial.md",

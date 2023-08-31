@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "96107cf7a3046864",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -116,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/cypress/cypress-Ultraportal-Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/cypress/cypress-Ultraportal-Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "testing/cypress/cypress-Ultraportal-Integration.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5,
-    "collapsed": true
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,12 +191,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8be1cd951b6ea06d",
+  "active": "113a18ab8b0fd6fb",
   "lastOpenFiles": [
+    "testing/cypress/cypress-Ultraportal-Integration.md",
+    "Context/spacesLastSync.log",
+    "Context",
     "testing/cypress/spec-Requirements.md",
     "meetings/2023-08-31-Retro-Time.md",
     "testing/release-Testing/2.6.3.md",
-    "testing/cypress/cypress-Ultraportal-Integration.md",
     "testing/importer-Testing/fuel-importing.md",
     "public/templates/main-Template.md",
     "public/images/Pasted image 20230728142116.png",
@@ -214,8 +220,6 @@
     "public/csv's/9E7C7820",
     "public/csv's/D97C7820",
     "public/csv's/575C7820",
-    "public/csv's/E40C7820",
-    "public/csv's/539F4420",
     "testing/importer-Testing/tco-importing.md",
     "testing/importer testing/tco-expected-outcomes.md",
     "testing/importer testing/TCO-report-testing.md",
@@ -229,7 +233,6 @@
     "ultraportal/docs/templates/Obsidian Note-taking Template.md",
     "ultraportal/testing/release-testing/qa-testing/Untitled.md",
     "ultraportal/testing/release-testing/UP.md",
-    "ultraportal/testing/release-testing/UP sprint 29 - Caterpie.md",
     "ultraportal/public/images/Pasted image 20230728133656.png",
     "ultraportal/public/images/Pasted image 20230728141738.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png",

@@ -40,11 +40,6 @@
       "testing/cypress",
       "testing/importer-Testing",
       "testing/release-Testing",
-      "testing",
-      "public",
-      "meetings",
-      "docs",
-      "testing",
       "testing/importer-Testing",
       "testing/importer"
     ]

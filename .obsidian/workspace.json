@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d637757d37b95c09",
+        "id": "eeb4192ab25f6452",
         "type": "tabs",
         "children": [
           {
-            "id": "cb6b671cef189540",
+            "id": "304d06c8764c4e96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing/importer/fuel-importing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,21 +99,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "113a18ab8b0fd6fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing/testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "53223e00ad172abe",
@@ -129,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer/fuel-importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer/fuel-importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "testing/importer/fuel-importing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,11 +179,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb6b671cef189540",
+  "active": "98dca3c7902271bd",
   "lastOpenFiles": [
+    "testing/cypress/cypress-Ultraportal-Integration.md",
+    "testing/importer/fuel-importing.md",
     "testing/importer/importer.md",
     "testing/importer/importer-Testing.md",
-    "testing/importer/fuel-importing.md",
     "testing/testing.md",
     "testing/release-Testing/2.6.3.md",
     "testing/cypress/spec-Requirements.md",
@@ -215,7 +196,6 @@
     "public/public.md",
     "meetings/meetings.md",
     "docs/docs.md",
-    "testing/cypress/cypress-Ultraportal-Integration.md",
     "Context/spacesLastSync.log",
     "Context",
     "meetings/2023-08-31-Retro-Time.md",

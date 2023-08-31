@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb4192ab25f6452",
+        "id": "5a709c624a4a0b94",
         "type": "tabs",
         "children": [
           {
-            "id": "304d06c8764c4e96",
+            "id": "36007d4874627c31",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -99,9 +99,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "304d06c8764c4e96",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "53223e00ad172abe",
@@ -179,7 +187,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98dca3c7902271bd",
+  "active": "304d06c8764c4e96",
   "lastOpenFiles": [
     "testing/cypress/cypress-Ultraportal-Integration.md",
     "testing/importer/fuel-importing.md",

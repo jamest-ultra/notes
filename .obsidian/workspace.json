@@ -189,7 +189,8 @@
   },
   "active": "8f2f1a3be28127bf",
   "lastOpenFiles": [
-    "testing/cypress/Spec requirements.md",
+    "testing/cypress/spec-Requirements.md",
+    "testing/cypress/cypress-Ultraportal-Integration.md",
     "testing/release-Testing/2.6.3.md",
     "testing/importer-Testing/fuel-importing.md",
     "public/templates/main-Template.md",

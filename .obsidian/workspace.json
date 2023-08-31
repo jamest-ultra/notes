@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89b18bdbc3eb3f4d",
+        "id": "38efc9a3b3ee8cc7",
         "type": "tabs",
         "children": [
           {
-            "id": "113a18ab8b0fd6fb",
+            "id": "360abcc769d1017b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,7 +96,7 @@
             }
           },
           {
-            "id": "771a9760b8787aab",
+            "id": "113a18ab8b0fd6fb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "53223e00ad172abe",
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testing/General/2.6.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testing/General/2.6.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "testing/General/2.6.3.md"
+              }
             }
           },
           {
@@ -169,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5
+    "width": 538.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,9 +187,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "771a9760b8787aab",
+  "active": "360abcc769d1017b",
   "lastOpenFiles": [
     "testing/General/2.6.3.md",
+    "meetings/2023-08-09 stakeholder meeting..md",
     "to-do-list.md",
     "testing/importer testing/inventory-importing.md",
     "testing/General",
@@ -198,7 +204,6 @@
     "public/csv's/E40C7820",
     "docs/SAML.md",
     "public/templates/main-template.md",
-    "meetings/2023-08-09 stakeholder meeting..md",
     "public/csv's/539F4420",
     "public/csv's/B09F4420",
     "public/csv's/6B8F4420",

@@ -34,7 +34,17 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "notes-hub": [
+      "docs",
+      "docs",
+      "meetings",
+      "public",
+      "testing",
+      "testing/release-Testing",
+      "testing/cypress"
+    ]
+  },
   "expandedSpaces": [
     "/",
     null,
@@ -69,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693495806797,
+  "spacesAutoBackupLast": 1693495995353,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

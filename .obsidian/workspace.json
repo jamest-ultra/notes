@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9538c9f765d89710",
+        "id": "d637757d37b95c09",
         "type": "tabs",
         "children": [
           {
-            "id": "8be1cd951b6ea06d",
+            "id": "cb6b671cef189540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing/cypress/cypress-Ultraportal-Integration.md",
+                "file": "testing/cypress/spec-Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testing/cypress/spec-Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testing/cypress/spec-Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "testing/cypress/spec-Requirements.md"
+              }
             }
           },
           {
@@ -191,8 +195,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "113a18ab8b0fd6fb",
+  "active": "cb6b671cef189540",
   "lastOpenFiles": [
+    "testing/cypress/cypress.md",
+    "testing/release-Testing/release-Testing.md",
+    "testing/testing.md",
+    "public/public.md",
+    "meetings/meetings.md",
+    "docs/staging.md",
+    "docs/docs.md",
     "testing/cypress/cypress-Ultraportal-Integration.md",
     "Context/spacesLastSync.log",
     "Context",
@@ -204,7 +215,6 @@
     "public/images/Pasted image 20230728142116.png",
     "meetings/2023-08-09-Stakeholder-Meeting.md",
     "docs/uat.md",
-    "docs/staging.md",
     "docs/aws-Terminal-Tutorial.md",
     "meetings/2023-08-02-Lkq-Meeting.md",
     "meetings/2023-08-02-Northgate-Deployment.md",
@@ -228,11 +238,6 @@
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png",
     "ultraportal/docs/Untitled.canvas",
     "staging ultraportal.md",
-    "Uat.md",
-    "Day Planners/Day Planner-20230802.md",
-    "ultraportal/docs/templates/Obsidian Note-taking Template.md",
-    "ultraportal/testing/release-testing/qa-testing/Untitled.md",
-    "ultraportal/testing/release-testing/UP.md",
     "ultraportal/public/images/Pasted image 20230728133656.png",
     "ultraportal/public/images/Pasted image 20230728141738.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png",

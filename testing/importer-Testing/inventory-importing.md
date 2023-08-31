@@ -42,7 +42,7 @@ When importing the costs for cost import you'll need to first start with the fil
 	- currency code = code
 ## Mapping image
 
-After the import you'll need to run the job on [[aws-terminal-tutorial]]
+After the import you'll need to run the job on [[aws-Terminal-Tutorial]]
 
 #### Areas to cover:
 

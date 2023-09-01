@@ -72,6 +72,7 @@
       "addCmd": false
     },
     "noticeError": false,
-    "displayModalRepoEditing": false
+    "displayModalRepoEditing": false,
+    "migrated": true
   }
 }

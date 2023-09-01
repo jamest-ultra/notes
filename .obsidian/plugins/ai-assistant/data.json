@@ -1,9 +1,0 @@
-{
-  "mySetting": "default",
-  "apiKey": "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",
-  "modelName": "gpt-4",
-  "maxTokens": 500,
-  "replaceSelection": true,
-  "imgFolder": "AiAssistant/Assets",
-  "language": ""
-}

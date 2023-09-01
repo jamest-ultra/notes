@@ -39,17 +39,13 @@
       "testing/importer-Testing",
       "testing/importer-Testing",
       "docs",
-      "public",
+      "textgenerator",
+      "textgenerator/prompts",
+      "textgenerator/prompts/default",
+      "textgenerator",
       "testing",
-      "meetings",
-      "meetings",
-      "docs",
-      "docs",
-      "docs",
-      "meetings",
-      "testing/importer",
-      "testing/cypress",
-      "testing/release-Testing"
+      "testing/release-Testing",
+      "public"
     ]
   },
   "expandedSpaces": [
@@ -86,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693582841486,
+  "spacesAutoBackupLast": 1693583571409,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

@@ -45,7 +45,8 @@
       "textgenerator",
       "testing",
       "testing/release-Testing",
-      "public"
+      "public",
+      "docs"
     ]
   },
   "expandedSpaces": [
@@ -82,7 +83,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693583571409,
+  "spacesAutoBackupLast": 1693583696873,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

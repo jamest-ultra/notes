@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1890caae5e00e54e",
+        "id": "e646dc03fdf8e7cd",
         "type": "tabs",
         "children": [
           {
-            "id": "4d4276d83720de2a",
+            "id": "91bb48e1382c0df5",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "public"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -189,8 +187,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d4276d83720de2a",
+  "active": "96107cf7a3046864",
   "lastOpenFiles": [
+    "public/templates/templates.md",
+    "Untitled.canvas",
+    "2023-09-01.md",
     "testing/release-Testing/2.6.3 - 2.6.4.md",
     "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/simplify.md",
@@ -217,9 +218,6 @@
     "testing/cypress/cypress-Ultraportal-Integration.md",
     "testing/importer/importer-Testing.md",
     "meetings/2023-08-02-Lkq-Meeting.md",
-    "docs/uat.md",
-    "docs/staging.md",
-    "docs/saml.md",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "Context/spacesLastSync.log",
     "Context",
@@ -238,7 +236,6 @@
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 2.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 3.png",
     "public/images/Pasted image 20230728133726.png",
-    "Untitled.canvas",
     "ultraportal/Untitled.canvas"
   ]
 }

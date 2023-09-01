@@ -46,6 +46,14 @@
       "public",
       "testing",
       "testing/cypress",
+      "testing/importer",
+      "testing/importer",
+      "meetings",
+      "meetings",
+      "docs",
+      "docs",
+      "testing/release-Testing",
+      "testing/cypress",
       "testing/importer"
     ]
   },

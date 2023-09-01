@@ -45,7 +45,10 @@
       "meetings",
       "docs",
       "docs",
-      "docs"
+      "docs",
+      "meetings",
+      "testing/importer",
+      "testing/cypress"
     ]
   },
   "expandedSpaces": [
@@ -82,7 +85,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693582367767,
+  "spacesAutoBackupLast": 1693582841486,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

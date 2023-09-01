@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a709c624a4a0b94",
+        "id": "ecbe28f1f9bbe890",
         "type": "tabs",
         "children": [
           {
-            "id": "36007d4874627c31",
+            "id": "9c1377e6bde2cdb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/fresh-Db-Protocol.md",
+                "file": "testing/cypress/cypress-Ultraportal-Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,8 +108,12 @@
             "id": "304d06c8764c4e96",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "testing/importer/tco-Importing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -125,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/fresh-Db-Protocol.md",
+                "file": "testing/cypress/cypress-Ultraportal-Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/fresh-Db-Protocol.md",
+                "file": "testing/cypress/cypress-Ultraportal-Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/fresh-Db-Protocol.md"
+                "file": "testing/cypress/cypress-Ultraportal-Integration.md"
               }
             }
           },
@@ -182,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5,
-    "collapsed": true
+    "width": 540.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,22 +199,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36007d4874627c31",
+  "active": "9c1377e6bde2cdb2",
   "lastOpenFiles": [
-    "docs/fresh-Db-Protocol.md",
-    "docs/staging.md",
     "testing/cypress/spec-Requirements.md",
-    "testing/cypress/cypress-Ultraportal-Integration.md",
-    "testing/release-Testing/2.6.3 - 2.6.4.md",
+    "testing/importer/fuel-Importing.md",
+    "testing/importer/importer-Testing.md",
+    "meetings/2023-08-02-Lkq-Meeting.md",
+    "docs/uat.md",
+    "docs/staging.md",
     "docs/aws-Terminal-Tutorial.md",
     "docs/saml.md",
     "docs/brightmile-Staging-Trusted-Key.md",
-    "testing/importer/fuel-importing.md",
-    "testing/importer/inventory-importing.md",
+    "docs/db-Migrate.md",
+    "testing/importer/tco-Importing.md",
+    "[[.md",
+    "meetings/2023-08-02-Northgate-Deployment.md",
+    "testing/cypress/cypress-Ultraportal-Integration.md",
+    "testing/release-Testing/2.6.3 - 2.6.4.md",
+    "testing/importer/inventory-Importing.md",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
-    "testing/importer/importer-Testing.md",
-    "testing/importer/tco-importing.md",
-    "docs/uat.md",
     "testing/importer/importer.md",
     "testing/testing.md",
     "testing/cypress/cypress.md",
@@ -225,11 +231,8 @@
     "public/templates/main-Template.md",
     "public/images/Pasted image 20230728142116.png",
     "meetings/2023-08-09-Stakeholder-Meeting.md",
-    "meetings/2023-08-02-Lkq-Meeting.md",
-    "meetings/2023-08-02-Northgate-Deployment.md",
     "testing/cypress",
     "Untitled",
-    "to-do-list.md",
     "testing/release-Testing",
     "public/csv's/04BC7820",
     "public/csv's/748C7820",

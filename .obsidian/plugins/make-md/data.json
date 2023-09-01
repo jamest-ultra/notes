@@ -48,7 +48,8 @@
       "docs",
       "meetings",
       "testing/importer",
-      "testing/cypress"
+      "testing/cypress",
+      "testing/release-Testing"
     ]
   },
   "expandedSpaces": [

@@ -1,4 +1,4 @@
-- name: Setup tmate session
+      - name: Setup tmate session
         uses: mxschmitt/action-tmate@v3
 		
       - run: |

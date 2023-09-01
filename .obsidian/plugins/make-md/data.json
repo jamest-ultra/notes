@@ -41,7 +41,9 @@
       "testing/importer-Testing",
       "testing/release-Testing",
       "testing/importer-Testing",
-      "testing/importer"
+      "testing/importer",
+      "docs",
+      "testing"
     ]
   },
   "expandedSpaces": [

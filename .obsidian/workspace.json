@@ -11,8 +11,12 @@
             "id": "36007d4874627c31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "testing/release-Testing/2.6.3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -121,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testing/release-Testing/2.6.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testing/release-Testing/2.6.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "testing/release-Testing/2.6.3.md"
+              }
             }
           },
           {
@@ -174,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5
+    "width": 538.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,16 +196,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "304d06c8764c4e96",
+  "active": "36007d4874627c31",
   "lastOpenFiles": [
-    "testing/cypress/cypress-Ultraportal-Integration.md",
-    "testing/importer/fuel-importing.md",
-    "testing/importer/importer.md",
     "testing/importer/importer-Testing.md",
-    "testing/testing.md",
-    "testing/release-Testing/2.6.3.md",
-    "testing/cypress/spec-Requirements.md",
+    "testing/importer/tco-importing.md",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
+    "testing/importer/inventory-importing.md",
+    "testing/importer/fuel-importing.md",
+    "testing/cypress/spec-Requirements.md",
+    "testing/cypress/cypress-Ultraportal-Integration.md",
+    "testing/release-Testing/2.6.3.md",
+    "testing/importer/importer.md",
+    "testing/testing.md",
     "docs/aws-Terminal-Tutorial.md",
     "docs/staging.md",
     "testing/cypress/cypress.md",
@@ -217,16 +228,13 @@
     "testing/cypress",
     "Untitled",
     "to-do-list.md",
-    "testing/importer/inventory-importing.md",
     "testing/release-Testing",
     "public/csv's/04BC7820",
     "public/csv's/748C7820",
     "public/csv's/9E7C7820",
     "public/csv's/D97C7820",
     "public/csv's/575C7820",
-    "testing/importer/tco-importing.md",
     "testing/importer testing/tco-expected-outcomes.md",
-    "testing/importer testing/TCO-report-testing.md",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png",
     "ultraportal/docs/Untitled.canvas",

@@ -11,9 +11,11 @@
             "id": "36007d4874627c31",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "testing/importer"
+                "file": "docs/fresh-Db-Protocol.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -123,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/fresh-Db-Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/fresh-Db-Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/fresh-Db-Protocol.md"
+              }
             }
           },
           {
@@ -192,13 +198,14 @@
   },
   "active": "36007d4874627c31",
   "lastOpenFiles": [
+    "docs/fresh-Db-Protocol.md",
+    "docs/staging.md",
     "testing/cypress/spec-Requirements.md",
     "testing/cypress/cypress-Ultraportal-Integration.md",
     "testing/release-Testing/2.6.3 - 2.6.4.md",
     "docs/aws-Terminal-Tutorial.md",
     "docs/saml.md",
     "docs/brightmile-Staging-Trusted-Key.md",
-    "docs/staging.md",
     "testing/importer/fuel-importing.md",
     "testing/importer/inventory-importing.md",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",

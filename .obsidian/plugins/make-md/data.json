@@ -36,25 +36,16 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "notes-hub": [
-      "testing/release-Testing",
-      "testing/cypress",
       "testing/importer-Testing",
-      "testing/release-Testing",
       "testing/importer-Testing",
-      "testing/importer",
       "docs",
       "public",
       "testing",
-      "testing/cypress",
-      "testing/importer",
-      "testing/importer",
       "meetings",
       "meetings",
       "docs",
       "docs",
-      "testing/release-Testing",
-      "testing/cypress",
-      "testing/importer"
+      "docs"
     ]
   },
   "expandedSpaces": [
@@ -91,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693562235133,
+  "spacesAutoBackupLast": 1693582367767,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

@@ -1,0 +1,1 @@
+When performing a DB migrate/upgrade you iwll need to perform configuaation task after the the 

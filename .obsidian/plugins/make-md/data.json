@@ -43,8 +43,6 @@
       "textgenerator/prompts/default",
       "textgenerator",
       "testing/release-Testing",
-      "testing",
-      "testing/importer",
       "docs"
     ]
   },
@@ -83,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693816857133,
+  "spacesAutoBackupLast": 1693838231723,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

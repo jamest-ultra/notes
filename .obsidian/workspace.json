@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 540.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +196,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a1dd2fe03654257",
+  "active": "98dca3c7902271bd",
   "lastOpenFiles": [
     "testing/importer/fuel-Importing.md",
     "testing/importer/inventory-Importing.md",

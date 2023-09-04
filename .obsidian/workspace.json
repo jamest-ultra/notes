@@ -11,10 +11,11 @@
             "id": "7a1dd2fe03654257",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/make-md/Spaces.mdb",
-                "staged": false
+                "file": "testing/importer/inventory-Importing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -124,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testing/importer/inventory-Importing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testing/importer/inventory-Importing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "testing/importer/inventory-Importing.md"
+              }
             }
           },
           {
@@ -192,6 +197,10 @@
   },
   "active": "7a1dd2fe03654257",
   "lastOpenFiles": [
+    "testing/importer/tco-Importing.md",
+    "testing/importer/fuel-Importing.md",
+    "testing/importer/tco-fuel-inventory-report-testing.canvas",
+    "testing/importer/importer-Testing.md",
     "meetings/context.mdb",
     "testing/testing.md",
     "testing/release-Testing/release-Testing.md",
@@ -219,10 +228,6 @@
     "textgenerator/prompts",
     "textgenerator",
     "testing/importer/inventory-Importing.md",
-    "testing/importer/tco-Importing.md",
-    "testing/importer/fuel-Importing.md",
-    "testing/cypress/spec-Requirements.md",
-    "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "Context/spacesLastSync.log",
     "Context",
     "public/images/Pasted image 20230728142116.png",
@@ -230,7 +235,6 @@
     "Untitled",
     "testing/release-Testing",
     "public/csv's/04BC7820",
-    "public/csv's/748C7820",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png",
     "ultraportal/docs/Untitled.canvas",

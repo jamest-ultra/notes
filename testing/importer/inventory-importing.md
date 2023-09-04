@@ -26,20 +26,20 @@ This testing will cover the importer test for costs.
 
 When importing the costs for cost import you'll need to first start with the file. I've attached the test files bellow [[#Attachments]].  
 
-	We need:
-	- vrn
-	- Vin
-	- Company = code
-	- Group = code
-	- Supplier = code
-	- body style = type 
-	- company = select company
-	- group = group code
-	- fuel group = lineage
-	- vehicle = licence plate 
-	- body style = type  
-	- number = name
-	- currency code = code
+We need:
+- vrn
+- Vin
+- Company = code
+- Group = id
+- Supplier = code or name
+- company = select company
+- group = id
+- fuel group = lineage
+	- e.g /tco/combustion/diesel/
+- vehicle = licence plate 
+- currency code = code
+
+
 ## Mapping image
 
 After the import you'll need to run the job on [[aws-Terminal-Tutorial]]

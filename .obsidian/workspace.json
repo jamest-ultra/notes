@@ -197,8 +197,9 @@
   },
   "active": "7a1dd2fe03654257",
   "lastOpenFiles": [
-    "testing/importer/tco-Importing.md",
     "testing/importer/fuel-Importing.md",
+    "testing/importer/inventory-Importing.md",
+    "testing/importer/tco-Importing.md",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "testing/importer/importer-Testing.md",
     "meetings/context.mdb",
@@ -227,7 +228,6 @@
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
-    "testing/importer/inventory-Importing.md",
     "Context/spacesLastSync.log",
     "Context",
     "public/images/Pasted image 20230728142116.png",

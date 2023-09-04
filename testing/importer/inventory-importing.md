@@ -35,7 +35,10 @@ We need:
 - company = select company
 - group = id
 - fuel group = lineage
-	- e.g /tco/combustion/diesel/
+	- /tco/combustion/diesel/
+	- /tco/combustion/petrol/
+	- /tco/lev/kwh/
+	- /tco/apv/cng/
 - vehicle = licence plate 
 - currency code = code
 

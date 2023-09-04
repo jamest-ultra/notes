@@ -44,7 +44,8 @@
       "textgenerator",
       "testing/release-Testing",
       "testing",
-      "testing/importer"
+      "testing/importer",
+      "docs"
     ]
   },
   "expandedSpaces": [

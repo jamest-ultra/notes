@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing/importer/inventory-Importing.md",
+                "file": "docs/brightmile-Staging-Trusted-Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/importer/inventory-Importing.md",
+                "file": "docs/brightmile-Staging-Trusted-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/importer/inventory-Importing.md",
+                "file": "docs/brightmile-Staging-Trusted-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/importer/inventory-Importing.md"
+                "file": "docs/brightmile-Staging-Trusted-Key.md"
               }
             }
           },
@@ -198,9 +198,9 @@
   },
   "active": "7a1dd2fe03654257",
   "lastOpenFiles": [
+    "testing/importer/inventory-Importing.md",
     "docs/saml.md",
     "docs/db-Migrate.md",
-    "testing/importer/inventory-Importing.md",
     "testing/release-Testing/2.6.3 - 2.6.4.md",
     "testing/importer/fuel-Importing.md",
     "testing/importer/tco-Importing.md",

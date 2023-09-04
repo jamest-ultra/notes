@@ -4,15 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e646dc03fdf8e7cd",
+        "id": "87be71dced83b584",
         "type": "tabs",
         "children": [
           {
-            "id": "91bb48e1382c0df5",
+            "id": "7a1dd2fe03654257",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/make-md/Spaces.mdb",
+                "staged": false
+              }
             }
           }
         ]
@@ -109,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "53223e00ad172abe",
@@ -187,12 +190,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96107cf7a3046864",
+  "active": "7a1dd2fe03654257",
   "lastOpenFiles": [
+    "meetings/context.mdb",
+    "testing/testing.md",
+    "testing/release-Testing/release-Testing.md",
+    "testing/release-Testing/2.6.3 - 2.6.4.md",
+    "2023-08-25.md",
     "public/templates/templates.md",
     "Untitled.canvas",
     "2023-09-01.md",
-    "testing/release-Testing/2.6.3 - 2.6.4.md",
     "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/simplify.md",
     "textgenerator/prompts/default/getEmailNeg.md",
@@ -215,9 +222,6 @@
     "testing/importer/tco-Importing.md",
     "testing/importer/fuel-Importing.md",
     "testing/cypress/spec-Requirements.md",
-    "testing/cypress/cypress-Ultraportal-Integration.md",
-    "testing/importer/importer-Testing.md",
-    "meetings/2023-08-02-Lkq-Meeting.md",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "Context/spacesLastSync.log",
     "Context",

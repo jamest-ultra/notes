@@ -38,21 +38,19 @@
     "notes-hub": [
       "testing/importer-Testing",
       "testing/importer-Testing",
-      "docs",
       "textgenerator",
       "textgenerator/prompts",
       "textgenerator/prompts/default",
       "textgenerator",
-      "testing",
       "testing/release-Testing",
-      "public",
-      "docs"
+      "meetings"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "notes-hub"
+    "notes-hub",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -83,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693583696873,
+  "spacesAutoBackupLast": 1693583981559,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

@@ -43,7 +43,8 @@
       "textgenerator/prompts/default",
       "textgenerator",
       "testing/release-Testing",
-      "docs"
+      "docs",
+      "testing"
     ]
   },
   "expandedSpaces": [

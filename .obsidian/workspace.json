@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing/release-Testing/2.6.3 - 2.6.4.md",
+                "file": "docs/Connecting to docker db.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/release-Testing/2.6.3 - 2.6.4.md",
+                "file": "docs/Connecting to docker db.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/release-Testing/2.6.3 - 2.6.4.md",
+                "file": "docs/Connecting to docker db.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/release-Testing/2.6.3 - 2.6.4.md"
+                "file": "docs/Connecting to docker db.md"
               }
             }
           },
@@ -198,12 +198,13 @@
   },
   "active": "7a1dd2fe03654257",
   "lastOpenFiles": [
+    "testing/release-Testing/2.6.3 - 2.6.4.md",
+    "docs/Connecting to docker db.md",
     "docs/brightmile-Staging-Trusted-Key.md",
     "docs/db-Migrate.md",
     "testing/testing.md",
     "testing/importer/inventory-Importing.md",
     "docs/saml.md",
-    "testing/release-Testing/2.6.3 - 2.6.4.md",
     "testing/importer/fuel-Importing.md",
     "testing/importer/tco-Importing.md",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
@@ -226,7 +227,6 @@
     "textgenerator/prompts/default/getOutline.md",
     "textgenerator/prompts/default/getEmailPos.md",
     "textgenerator/prompts/default/getTitles.md",
-    "textgenerator/prompts/default/getIdeas.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",

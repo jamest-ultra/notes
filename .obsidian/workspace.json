@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "38518e58a425a121",
+        "id": "947779036c422d05",
         "type": "tabs",
         "children": [
           {
-            "id": "c2847cb9b76e0429",
+            "id": "17b573cd6604767a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,18 +187,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2847cb9b76e0429",
+  "active": "17b573cd6604767a",
   "lastOpenFiles": [
-    "Untitled.md",
-    "docs/Connecting to docker db.md",
-    "docs/brightmile-Staging-Trusted-Key.md",
+    "testing/importer/tco-Importing.md",
     "docs/db-Migrate.md",
+    "docs/Connecting to docker db.md",
+    "docs/aws-Terminal-Tutorial.md",
+    "meetings/2023-08-02-Northgate-Deployment.md",
+    "docs/uat.md",
+    "docs/staging.md",
     "docs/saml.md",
+    "docs/docs.md",
+    "Untitled.md",
+    "docs/brightmile-Staging-Trusted-Key.md",
     "testing/release-Testing/2.6.3 - 2.6.4.md",
     "testing/testing.md",
     "testing/importer/inventory-Importing.md",
     "testing/importer/fuel-Importing.md",
-    "testing/importer/tco-Importing.md",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "testing/importer/importer-Testing.md",
     "meetings/context.mdb",
@@ -214,11 +218,6 @@
     "textgenerator/prompts/default/summarize.md",
     "textgenerator/prompts/default/rewrite.md",
     "textgenerator/prompts/default/default.md",
-    "textgenerator/prompts/prompts.md",
-    "textgenerator/textgenerator.md",
-    "docs/aws-Terminal-Tutorial.md",
-    "textgenerator/prompts/default/getOutline.md",
-    "textgenerator/prompts/default/getEmailPos.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",

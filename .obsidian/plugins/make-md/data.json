@@ -44,7 +44,10 @@
       "textgenerator",
       "testing/release-Testing",
       "docs",
-      "testing"
+      "testing",
+      "meetings",
+      "testing/importer",
+      "testing/cypress"
     ]
   },
   "expandedSpaces": [

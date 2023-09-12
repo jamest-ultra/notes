@@ -11,8 +11,12 @@
             "id": "f0bc6212bc885ca4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "public/templates/jira-Testing-Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "public/templates/jira-Testing-Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "public/templates/jira-Testing-Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "public/templates/jira-Testing-Template.md"
+              }
             }
           },
           {
@@ -190,6 +197,9 @@
   },
   "active": "f0bc6212bc885ca4",
   "lastOpenFiles": [
+    "public/templates/main-Template.md",
+    "public/templates/jira-Testing-Template.md",
+    "public/templates/templates.md",
     "meetings/meetings.md",
     "testing/testing.md",
     "docs/brightmile-Staging-Trusted-Key.md",
@@ -214,10 +224,8 @@
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "testing/importer/importer-Testing.md",
     "2023-08-25.md",
-    "public/templates/templates.md",
     "Untitled.canvas",
     "2023-09-01.md",
-    "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",

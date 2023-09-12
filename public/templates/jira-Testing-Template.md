@@ -13,7 +13,7 @@
 
 **QA Expected Behavior:** [What you expected to happen]
 
-**Tested Actual Behavior:** [What actually happened]
+**Tested Actual Behaviour:** [What actually happened]
 
 **Steps to Reproduce (if applicable):**
 

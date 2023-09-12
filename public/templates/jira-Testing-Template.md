@@ -4,15 +4,16 @@
 
 **Description:** [Detailed description of the issue, including steps to reproduce if it's a bug]
 
-**Environment:**
+**Testing Environment:**
 
 - Operating System: [e.g., Windows 10, macOS]
 - Browser (if applicable): [e.g., Chrome, Firefox]
 - Application Version (if applicable): [e.g., v2.0.1]
+-  Testing version (if applicable):
 
-**Expected Behavior:** [What you expected to happen]
+** QA Expected Behavior:** [What you expected to happen]
 
-**Actual Behavior:** [What actually happened]
+**Tested Actual Behavior:** [What actually happened]
 
 **Steps to Reproduce (if applicable):**
 
@@ -23,10 +24,6 @@
 **Attachments:**
 
 - [If applicable, attach screenshots or files that help illustrate the issue]
-
-**Additional Information:**
-
-- [Any other relevant information, such as error messages, logs, or related Jira issues]
 
 **Test Steps:**
 
@@ -49,7 +46,3 @@
 **Priority:** [Set the priority level, e.g., High, Medium, Low]
 
 **Assignee:** [Assign the ticket to the appropriate developer]
-
-**Labels:** [Add relevant labels, e.g., Bug, Testing]
-
-**Due Date:** [Specify a due date if necessary]

@@ -11,7 +11,7 @@
 - Application Version (if applicable): [e.g., v2.0.1]
 -  Testing version (if applicable):
 
-** QA Expected Behavior:** [What you expected to happen]
+**QA Expected Behavior:** [What you expected to happen]
 
 **Tested Actual Behavior:** [What actually happened]
 

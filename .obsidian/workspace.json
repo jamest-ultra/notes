@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public/templates/jira-Testing-Template.md",
+                "file": "testing/release-Testing/2.6.3 - 2.6.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "public/templates/jira-Testing-Template.md",
+                "file": "testing/release-Testing/2.6.3 - 2.6.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "public/templates/jira-Testing-Template.md",
+                "file": "testing/release-Testing/2.6.3 - 2.6.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "public/templates/jira-Testing-Template.md"
+                "file": "testing/release-Testing/2.6.3 - 2.6.4.md"
               }
             }
           },
@@ -197,8 +197,8 @@
   },
   "active": "f0bc6212bc885ca4",
   "lastOpenFiles": [
-    "public/templates/main-Template.md",
     "public/templates/jira-Testing-Template.md",
+    "public/templates/main-Template.md",
     "public/templates/templates.md",
     "meetings/meetings.md",
     "testing/testing.md",

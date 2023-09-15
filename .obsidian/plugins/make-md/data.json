@@ -53,7 +53,9 @@
       "meetings",
       "public",
       "testing",
-      "docs"
+      "docs",
+      "public/templates",
+      "public/templates"
     ]
   },
   "expandedSpaces": [

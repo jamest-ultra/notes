@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -109,6 +110,16 @@
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "ee98560d9e7a6897",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],

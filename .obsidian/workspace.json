@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6cb5139951b043f",
+        "id": "85ddb7dfe765041c",
         "type": "tabs",
         "children": [
           {
-            "id": "f0bc6212bc885ca4",
+            "id": "99e3da910fea11d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "public/templates/jira-Testing-Template.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "meetings"
               }
             }
           }
@@ -135,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "public/templates/jira-Testing-Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "public/templates/jira-Testing-Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "public/templates/jira-Testing-Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,10 +200,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0bc6212bc885ca4",
+  "active": "99e3da910fea11d2",
   "lastOpenFiles": [
-    "testing/release-Testing/2.6.3 - 2.6.4.md",
     "public/templates/jira-Testing-Template.md",
+    "testing/release-Testing/2.6.3 - 2.6.4.md",
     "public/templates/main-Template.md",
     "public/templates/templates.md",
     "meetings/meetings.md",

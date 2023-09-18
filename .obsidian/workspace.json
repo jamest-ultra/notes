@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "85ddb7dfe765041c",
+        "id": "3553224fb2d8cc1a",
         "type": "tabs",
         "children": [
           {
-            "id": "99e3da910fea11d2",
+            "id": "54a80ce69a3f1d3a",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "meetings"
+                "file": "docs/aws-Terminal-Tutorial.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -133,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/aws-Terminal-Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/aws-Terminal-Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/aws-Terminal-Tutorial.md"
+              }
             }
           },
           {
@@ -186,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5,
-    "collapsed": true
+    "width": 540.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +205,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99e3da910fea11d2",
+  "active": "54a80ce69a3f1d3a",
   "lastOpenFiles": [
     "public/templates/jira-Testing-Template.md",
     "testing/release-Testing/2.6.3 - 2.6.4.md",

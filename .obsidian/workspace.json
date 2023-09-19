@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/aws/aws-Terminal-Tutorial.md",
+                "file": "Context/DEV's.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/aws/aws-Terminal-Tutorial.md",
+                "file": "Context/DEV's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/aws/aws-Terminal-Tutorial.md",
+                "file": "Context/DEV's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/aws/aws-Terminal-Tutorial.md"
+                "file": "Context/DEV's.md"
               }
             }
           },
@@ -203,10 +203,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a013d129264fc18",
+  "active": "eda362e773e8a19b",
   "lastOpenFiles": [
-    "docs/aws/Deploying version to staging..md",
+    "testing/feature-testing/UP-2963-unique-import-codes.md",
+    "Context/DEV's.md",
     "docs/aws/aws-Terminal-Tutorial.md",
+    "testing/Untitled",
+    "testing/feature-testing",
+    "docs/aws/Deploying version to staging..md",
     "docs/staging/staging.md",
     "docs/staging/saml.md",
     "docs/uat/uat.md",
@@ -235,13 +239,10 @@
     "testing/importer/tco-Importing.md",
     "Untitled.md",
     "testing/importer/inventory-Importing.md",
-    "testing/importer/fuel-Importing.md",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "Untitled.canvas",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
-    "textgenerator",
-    "Context/spacesLastSync.log",
     "public/images/Pasted image 20230728142116.png",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png",

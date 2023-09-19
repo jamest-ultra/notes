@@ -15,6 +15,9 @@ Unique code ”import-code”, similar to “code” but auto generated, un edit
 
 - Issue when selecting Groups in fuel
 - Issue when selecting Suppliers in fuel
+- Issue with selecting products
+- Issue with selecting Transactions
+- Issue with selecting entity mappings
 
 ## Inventory
 

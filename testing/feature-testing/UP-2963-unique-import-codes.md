@@ -7,3 +7,21 @@ Unique code ”import-code”, similar to “code” but auto generated, un edit
 # Dev
 
 	John Stean
+
+--- 
+# Bugs
+
+## Fuel
+
+- Issue when selecting Groups in fuel
+- Issue when selecting Suppliers in fuel
+
+## Inventory
+
+- Issue when selecting Suppliers in inventory
+- Issue when selecting Funding types in inventory
+- Issue when selecting Vehicle types in inventory
+
+## Cost
+
+- Issue when selecting Groups in cost

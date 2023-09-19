@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/aws-Terminal-Tutorial.md",
+                "file": "docs/Deploying version to staging..md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/aws-Terminal-Tutorial.md",
+                "file": "docs/Deploying version to staging..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/aws-Terminal-Tutorial.md",
+                "file": "docs/Deploying version to staging..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/aws-Terminal-Tutorial.md"
+                "file": "docs/Deploying version to staging..md"
               }
             }
           },
@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 540.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +208,8 @@
   },
   "active": "54a80ce69a3f1d3a",
   "lastOpenFiles": [
+    "docs/aws-Terminal-Tutorial.md",
+    "docs/Deploying version to staging..md",
     "public/templates/jira-Testing-Template.md",
     "testing/release-Testing/2.6.3 - 2.6.4.md",
     "public/templates/main-Template.md",
@@ -226,7 +229,6 @@
     "docs/uat.md",
     "testing/release-Testing/release-Testing.md",
     "testing/importer/tco-Importing.md",
-    "docs/aws-Terminal-Tutorial.md",
     "docs/staging.md",
     "Untitled.md",
     "testing/importer/inventory-Importing.md",
@@ -235,7 +237,6 @@
     "testing/importer/importer-Testing.md",
     "2023-08-25.md",
     "Untitled.canvas",
-    "2023-09-01.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",

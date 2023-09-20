@@ -112,14 +112,6 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "d031045b2cdc520f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -134,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,8 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d1d9051f8f06d88",
+  "active": "304d06c8764c4e96",
   "lastOpenFiles": [
+    "docs/local/WSL2-Disk-Space-Scan.md",
+    "docs/local/Untitled.canvas",
+    "2023-09-20.md",
     "testing/cypress/Cypress-Ultra-portal-Integration.md",
     "testing/cypress/spec-Requirements.md",
     "testing/cypress/cypress.md",
@@ -218,7 +209,6 @@
     "docs/staging/Brightmile-Staging-Trusted-Key.md",
     "docs/local/Connecting-To-Docker-Db.md",
     "docs/local/Db-Migrate.md",
-    "docs/local/WSL2-Disk-Space-Scan.md",
     "testing/feature-testing/UP-2963-unique-import-codes.md",
     "textgenerator/prompts/trash/default",
     "textgenerator/prompts/trash",
@@ -239,8 +229,6 @@
     "docs/staging",
     "docs/Untitled.md",
     "docs/local",
-    "testing/release-Testing/2.6.3 - 2.6.4.md",
-    "public/templates/main-Template.md",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "Untitled.canvas",
     "public/images/Pasted image 20230728142116.png",

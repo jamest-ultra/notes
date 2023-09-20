@@ -1,3 +1,8 @@
+---
+tags:
+  - How_to_guide
+---
+
 This tutorial will show you how to update the staging version of Bright mile's trusted keys after restoring the database.
 
 # Instructions

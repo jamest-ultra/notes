@@ -13,4 +13,4 @@ PERSONNEL = **Test Test ()**
 
 # relations
 
-[[cypress-Ultraportal-Integration]]
+[[Cypress-Ultra-portal-Integration]]

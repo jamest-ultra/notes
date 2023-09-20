@@ -1,8 +1,11 @@
-      - name: Setup tmate session
+
+
+```
+- name: Setup tmate session
         uses: mxschmitt/action-tmate@v3
 		
       - run: |
-          docker exec -it ultraportal-cypress-integration_database_1 bash
+          docker exec -it ultraportal-cypress-integration_database_1 
           mysql -u root
           create database ultraportal;
 		  
@@ -19,4 +22,5 @@
           browser: chrome
           working-directory: './src'
         env:
-          CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
+          CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}  
+```

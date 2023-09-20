@@ -1,3 +1,8 @@
+---
+tags:
+  - How_to_guide
+---
+
 # Description
 
 This page will outline the procedures you need to follow when migrating the [[staging]] database. You will need to complete a configuration operation following a DB migration or upgrade in order to get the environment back to functional.

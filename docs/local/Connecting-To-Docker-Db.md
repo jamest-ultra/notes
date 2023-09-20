@@ -1,3 +1,7 @@
+---
+tags:
+  - How_to_guide
+---
 
 # Instructions
 

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "86c05d067b66fe41",
+        "id": "6663cb4690e24abe",
         "type": "tabs",
         "children": [
           {
-            "id": "eda362e773e8a19b",
+            "id": "8d1d9051f8f06d88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -134,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 531.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,8 +195,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eda362e773e8a19b",
+  "active": "8d1d9051f8f06d88",
   "lastOpenFiles": [
+    "testing/cypress/Cypress-Ultra-portal-Integration.md",
+    "testing/cypress/spec-Requirements.md",
+    "testing/cypress/cypress.md",
+    "docs/uat/uat.md",
+    "meetings/2023-08-09-Stakeholder-Meeting.md",
+    "meetings/2023-08-31-Retro-Time.md",
+    "meetings/2023-08-02-Northgate-Deployment.md",
+    "meetings/2023-08-02-Lkq-Meeting.md",
+    "docs/staging/staging.md",
+    "docs/staging/saml.md",
     "docs/staging/Brightmile-Staging-Trusted-Key.md",
     "docs/local/Connecting-To-Docker-Db.md",
     "docs/local/Db-Migrate.md",
@@ -219,9 +221,6 @@
     "testing/Untitled",
     "testing/feature-testing",
     "docs/aws/Deploying version to staging..md",
-    "docs/staging/staging.md",
-    "docs/staging/saml.md",
-    "docs/uat/uat.md",
     "public/templates/jira-Testing-Template.md",
     "docs/docs.md",
     "meetings/meetings.md",
@@ -234,13 +233,6 @@
     "docs/local",
     "testing/release-Testing/2.6.3 - 2.6.4.md",
     "public/templates/main-Template.md",
-    "meetings/2023-08-02-Lkq-Meeting.md",
-    "meetings/2023-08-02-Northgate-Deployment.md",
-    "meetings/2023-08-09-Stakeholder-Meeting.md",
-    "meetings/2023-08-31-Retro-Time.md",
-    "testing/release-Testing/release-Testing.md",
-    "testing/importer/tco-Importing.md",
-    "Untitled.md",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "Untitled.canvas",
     "public/images/Pasted image 20230728142116.png",

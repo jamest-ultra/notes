@@ -9,22 +9,5 @@ Unique code ”import-code”, similar to “code” but auto generated, un edit
 	John Stean 
 
 ---
-# Bugs
+# Bugs:
 
-## Fuel
-
-- Issue when selecting Groups in fuel
-- Issue when selecting Suppliers in fuel
-- Issue with selecting products
-- Issue with selecting Transactions
-- Issue with selecting entity mappings
-
-## Inventory
-
-- Issue when selecting Suppliers in inventory
-- Issue when selecting Funding types in inventory
-- Issue when selecting Vehicle types in inventory
-
-## Cost
-
-- Issue when selecting Groups in cost

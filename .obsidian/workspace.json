@@ -11,8 +11,12 @@
             "id": "8d1d9051f8f06d88",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/local/WSL2-Disk-Space-Scan.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/local/WSL2-Disk-Space-Scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/local/WSL2-Disk-Space-Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/local/WSL2-Disk-Space-Scan.md"
+              }
             }
           },
           {

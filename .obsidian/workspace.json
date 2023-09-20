@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing/feature-testing/UP-2963-unique-import-codes.md",
+                "file": "docs/local/WSL2-Disk-Space-Scan.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/local/WSL2-Disk-Space-Scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/local/WSL2-Disk-Space-Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/local/WSL2-Disk-Space-Scan.md"
+              }
             }
           },
           {
@@ -199,8 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "304d06c8764c4e96",
+  "active": "eda362e773e8a19b",
   "lastOpenFiles": [
+    "docs/staging/Brightmile-Staging-Trusted-Key.md",
+    "docs/local/Connecting-To-Docker-Db.md",
+    "docs/local/Db-Migrate.md",
+    "docs/local/WSL2-Disk-Space-Scan.md",
     "testing/feature-testing/UP-2963-unique-import-codes.md",
     "textgenerator/prompts/trash/default",
     "textgenerator/prompts/trash",
@@ -221,11 +229,8 @@
     "testing/testing.md",
     "Untitled",
     "docs/uat",
-    "docs/local/db-Migrate.md",
-    "docs/staging/brightmile-Staging-Trusted-Key.md",
     "docs/staging",
     "docs/Untitled.md",
-    "docs/local/Connecting to docker db.md",
     "docs/local",
     "testing/release-Testing/2.6.3 - 2.6.4.md",
     "public/templates/main-Template.md",

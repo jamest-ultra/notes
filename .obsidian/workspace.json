@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md",
+                "file": "docs/staging/Brightmile-Staging-Trusted-Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,6 +193,7 @@
   },
   "active": "304d06c8764c4e96",
   "lastOpenFiles": [
+    "docs/staging/Brightmile-Staging-Trusted-Key.md",
     "docs/local/WSL2-Disk-Space-Scan.md",
     "docs/local/Untitled.canvas",
     "2023-09-20.md",
@@ -206,7 +207,6 @@
     "meetings/2023-08-02-Lkq-Meeting.md",
     "docs/staging/staging.md",
     "docs/staging/saml.md",
-    "docs/staging/Brightmile-Staging-Trusted-Key.md",
     "docs/local/Connecting-To-Docker-Db.md",
     "docs/local/Db-Migrate.md",
     "testing/feature-testing/UP-2963-unique-import-codes.md",

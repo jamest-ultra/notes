@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md",
+                "file": "docs/Tasks-And-Reminders.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Tasks-And-Reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Tasks-And-Reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Tasks-And-Reminders.md"
+              }
             }
           },
           {
@@ -191,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "304d06c8764c4e96",
+  "active": "b5d177c38ae7aa06",
   "lastOpenFiles": [
     "docs/local/WSL2-Disk-Space-Scan.md",
     "docs/Tasks-And-Reminders.md",

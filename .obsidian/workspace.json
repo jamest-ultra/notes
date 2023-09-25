@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6663cb4690e24abe",
+        "id": "f77b5383db6dc45c",
         "type": "tabs",
         "children": [
           {
-            "id": "8d1d9051f8f06d88",
+            "id": "b5d177c38ae7aa06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/staging/Brightmile-Staging-Trusted-Key.md",
+                "file": "docs/local/WSL2-Disk-Space-Scan.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 294.5
   },
   "right": {
     "id": "d05e26196024cdc3",
@@ -126,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/staging/Brightmile-Staging-Trusted-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/staging/Brightmile-Staging-Trusted-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/staging/Brightmile-Staging-Trusted-Key.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5,
-    "collapsed": true
+    "width": 424.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d1d9051f8f06d88",
+  "active": "304d06c8764c4e96",
   "lastOpenFiles": [
     "docs/local/WSL2-Disk-Space-Scan.md",
-    "docs/local/Db-Migrate.md",
+    "docs/Tasks-And-Reminders.md",
     "docs/staging/Brightmile-Staging-Trusted-Key.md",
+    "docs/local/Db-Migrate.md",
     "docs/local/Untitled.canvas",
     "2023-09-20.md",
     "testing/cypress/Cypress-Ultra-portal-Integration.md",
@@ -232,7 +228,6 @@
     "Untitled",
     "docs/uat",
     "docs/staging",
-    "docs/Untitled.md",
     "docs/local",
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "Untitled.canvas",

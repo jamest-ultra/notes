@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "927e176a20c137c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/New-Starter-Questions..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md",
+                "file": "docs/New-Starter-Questions..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md",
+                "file": "docs/New-Starter-Questions..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/local/WSL2-Disk-Space-Scan.md"
+                "file": "docs/New-Starter-Questions..md"
               }
             }
           },
@@ -195,11 +208,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5d177c38ae7aa06",
+  "active": "927e176a20c137c1",
   "lastOpenFiles": [
+    "docs/local/WSL2-Disk-Space-Scan.md",
+    "docs/New-Starter-Questions..md",
     "docs/local/Connecting-To-Docker-Db.md",
     "docs/local/Db-Migrate.md",
-    "docs/local/WSL2-Disk-Space-Scan.md",
     "docs/Tasks-And-Reminders.md",
     "docs/staging/Brightmile-Staging-Trusted-Key.md",
     "docs/local/Untitled.canvas",

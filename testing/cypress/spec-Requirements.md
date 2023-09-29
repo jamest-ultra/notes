@@ -1,6 +1,6 @@
 # Description
 
-This page hold the information for entity's which need to be create before hand when running the cypress tests.
+This page hold the information for entity's which need to be create before hand when running the [[cypress]] tests.
 
 # Entity's
 

@@ -1,6 +1,6 @@
 
 
-```
+```bash
 - name: Setup tmate session
         uses: mxschmitt/action-tmate@v3
 		

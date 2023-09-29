@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/aws/Deploying version to staging..md",
+                "file": "docs/branch-Change-On-Aws.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/aws/Deploying version to staging..md",
+                "file": "docs/branch-Change-On-Aws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/aws/Deploying version to staging..md",
+                "file": "docs/branch-Change-On-Aws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/aws/Deploying version to staging..md"
+                "file": "docs/branch-Change-On-Aws.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,26 +197,26 @@
   },
   "active": "b5d177c38ae7aa06",
   "lastOpenFiles": [
-    "docs/aws/navigating-aws-enviroments.md",
-    "docs/aws/Deploying version to staging..md",
+    "docs/Brightmile-Staging-Trusted-Key.md",
+    "docs/branch-Change-On-Aws.md",
+    "docs/Connecting-To-Docker-Db.md",
+    "docs/Db-Migrate.md",
+    "docs/saml.md",
+    "docs/uat.md",
+    "docs/WSL2-Disk-Space-Scan.md",
+    "docs/team-Details.md",
+    "docs/navigating-aws-enviroments.md",
     "meetings/2023-08-31-Retro-Time.md",
     "meetings/2023-08-02-Northgate-Deployment.md",
     "meetings/2023-08-02-Lkq-Meeting.md",
-    "docs/Tasks-And-Reminders.md",
     "docs/New-Starter-Questions..md",
-    "docs/local/WSL2-Disk-Space-Scan.md",
-    "docs/local/Connecting-To-Docker-Db.md",
-    "docs/local/Db-Migrate.md",
-    "docs/staging/Brightmile-Staging-Trusted-Key.md",
     "docs/local/Untitled.canvas",
     "2023-09-20.md",
     "testing/cypress/Cypress-Ultra-portal-Integration.md",
     "testing/cypress/spec-Requirements.md",
     "testing/cypress/cypress.md",
-    "docs/uat/uat.md",
     "meetings/2023-08-09-Stakeholder-Meeting.md",
-    "docs/staging/staging.md",
-    "docs/staging/saml.md",
+    "docs/staging.md",
     "testing/feature-testing/UP-2963-unique-import-codes.md",
     "textgenerator/prompts/trash/default",
     "textgenerator/prompts/trash",

@@ -45,7 +45,7 @@ We need:
 
 ## Mapping image
 
-After the import you'll need to run the job on [[aws-Terminal-Tutorial]]
+After the import you'll need to run the job on [[navigating-aws-enviroments]]
 
 #### Areas to cover:
 

@@ -93,7 +93,7 @@ When importing the costs for cost import you'll need to first start with the fil
 - vehicle always maps to licence plate number
 - supplier = name
 
-After the import you'll need to run the job on [[aws-Terminal-Tutorial]]
+After the import you'll need to run the job on [[navigating-aws-enviroments]]
 #### Areas to cover:
 
 ```mermaid

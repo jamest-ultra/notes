@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/aws/aws-Terminal-Tutorial.md",
+                "file": "docs/aws/Deploying version to staging..md",
                 "mode": "source",
                 "source": false
               }
@@ -126,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/aws/Deploying version to staging..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/aws/Deploying version to staging..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/aws/Deploying version to staging..md"
+              }
             }
           },
           {
@@ -191,9 +195,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "304d06c8764c4e96",
+  "active": "b5d177c38ae7aa06",
   "lastOpenFiles": [
-    "docs/aws/aws-Terminal-Tutorial.md",
+    "docs/aws/navigating-aws-enviroments.md",
     "docs/aws/Deploying version to staging..md",
     "meetings/2023-08-31-Retro-Time.md",
     "meetings/2023-08-02-Northgate-Deployment.md",

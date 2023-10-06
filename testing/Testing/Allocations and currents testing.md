@@ -1,0 +1,95 @@
+Process for testing [[currents]] and [[allocations]] (per entity)
+
+All in vehicles: 
+
+Vehicle - Group x 1
+	Test 1 - Passed
+	Test 2 - Passed
+	Test 3 - Passed
+
+Vehicle - Driver x 1
+	Current for vehicle and current for driver
+	Test 1 - Passed
+	Test 2 - Passed
+	Test 3 - Passed
+
+Vehicle - Device x 1 
+	Current for vehicle and current for device
+	Test 1 - Passed
+	Test 2 - Passed
+	Test 3 - Passed
+
+Vehicle - Hire x 1
+	Test 1 - Passed
+	Test 2 - Passed
+	Test 3 - Passed
+
+A = VehicleTestJames
+B1 = HireTestJames
+B2 = HireTestJames2
+
+## Init
+
+Create entity A and B1 and B2
+
+### Test 1 - Create, Edit, Delete
+
+Create open [[allocation]] between A and B1
+
+Check current B1 for entity A
+	Entity A should display the current B1
+
+Close allocation between A and B1
+
+Check current B1 for entity A
+	Entity A should display the current "NULL"
+
+Open allocation between A and B1
+
+Check current B1 for entity A
+	Entity A should display the current B1
+
+Delete allocation between A and B1
+
+Check current B1 for entity A
+	Entity A should display the current "NULL"
+
+### Test 2 - Fallback testing
+
+Create allocation between A and B1
+
+Create allocation between A and B2 with a allocated date > A and B1
+
+Check current allocation for entity A
+	Entity A should display the current allocation to B2
+
+Delete second allocation
+
+Check current allocation for entity A
+	Entity A should display current allocation to B1
+
+Delete first allocation
+
+Check current B1 for entity A
+	Entity A should display the current "NULL"
+
+### Test 3 - Swap allocation date
+
+Create allocation between A and B1
+
+Create allocation between A and B2 with a allocated date > A and B1
+
+Check current allocation for entity A
+	Entity A should display the current allocation to B2
+
+Move the allocated date between A and B1 to > then A and B2
+
+Check current allocation for entity A
+	Entity A should display current allocation to B1
+
+Delete first allocation 
+
+Check current allocation for A
+	Should display B2
+~~
+Delete second allocation

@@ -11,8 +11,12 @@
             "id": "e4f399bb868201d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Db-Migrate.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 348.5
   },
   "right": {
     "id": "d05e26196024cdc3",
@@ -122,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Db-Migrate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Db-Migrate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Db-Migrate.md"
+              }
             }
           },
           {
@@ -175,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 774.5
+    "width": 496.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,46 +195,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4f399bb868201d3",
+  "active": "4a013d129264fc18",
   "lastOpenFiles": [
-    "meetings/2023-08-02-Northgate-Deployment.md",
+    "docs/saml.md",
+    "docs/staging.md",
+    "docs/team-Details.md",
+    "docs/WSL2-Disk-Space-Scan.md",
     "meetings/2023-08-02-Lkq-Meeting.md",
+    "meetings/2023-08-02-Northgate-Deployment.md",
+    "public/templates/jira-Testing-Template.md",
+    "public/templates/main-Template.md",
+    "testing/cypress/Cypress-Ultra-portal-Integration.md",
+    "testing/cypress/spec-Requirements.md",
+    "testing/importer/fuel-Importing.md",
+    "testing/importer/importer.md",
+    "testing/importer/importer-Testing.md",
+    "testing/importer/inventory-Importing.md",
+    "testing/importer/tco-fuel-inventory-report-testing.canvas",
+    "testing/importer/tco-Importing.md",
     "testing/Testing/Allocations and currents testing.md",
     "testing/Testing/2.6.3 - 2.6.4.md",
-    "testing/importer/fuel-Importing.md",
-    "testing/cypress/spec-Requirements.md",
     "testing/feature-testing/UP-2963-unique-import-codes.md",
-    "testing/cypress/Cypress-Ultra-portal-Integration.md",
     "testing/cypress/cypress.md",
     "meetings/2023-08-09-Stakeholder-Meeting.md",
     "meetings/2023-08-31-Retro-Time.md",
-    "docs/WSL2-Disk-Space-Scan.md",
     "docs/uat.md",
     "docs/navigating-aws-enviroments.md",
     "docs/Db-Migrate.md",
-    "docs/staging.md",
     "docs/connecting-To-Docker-Db.md",
     "docs/Brightmile-Staging-Trusted-Key.md",
-    "docs/branch-Change-On-Aws.md",
-    "docs/saml.md",
-    "docs/team-Details.md",
-    "docs/New-Starter-Questions..md",
     "docs/local/Untitled.canvas",
-    "2023-09-20.md",
     "textgenerator/prompts/trash/default",
     "textgenerator/prompts/trash",
     "textgenerator/prompts",
     "textgenerator",
-    "Context/DEV's.md",
     "testing/Untitled",
     "testing/feature-testing",
-    "public/templates/jira-Testing-Template.md",
-    "docs/docs.md",
     "Untitled",
     "docs/uat",
     "docs/staging",
     "docs/local",
-    "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "Untitled.canvas",
     "public/images/Pasted image 20230728142116.png",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Db-Migrate.md",
+                "file": "meetings/2023-08-02-Northgate-Deployment.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Db-Migrate.md",
+                "file": "meetings/2023-08-02-Northgate-Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Db-Migrate.md",
+                "file": "meetings/2023-08-02-Northgate-Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Db-Migrate.md"
+                "file": "meetings/2023-08-02-Northgate-Deployment.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "4a013d129264fc18",
   "lastOpenFiles": [
+    "docs/Db-Migrate.md",
     "docs/saml.md",
     "docs/staging.md",
     "docs/team-Details.md",
@@ -221,7 +222,6 @@
     "meetings/2023-08-31-Retro-Time.md",
     "docs/uat.md",
     "docs/navigating-aws-enviroments.md",
-    "docs/Db-Migrate.md",
     "docs/connecting-To-Docker-Db.md",
     "docs/Brightmile-Staging-Trusted-Key.md",
     "docs/local/Untitled.canvas",

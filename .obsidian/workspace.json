@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fbb11b433252164",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a013d129264fc18",
+  "active": "6fbb11b433252164",
   "lastOpenFiles": [
     "docs/Db-Migrate.md",
     "docs/saml.md",

@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1dff81846ff81c01",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +99,12 @@
             "id": "304d06c8764c4e96",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -139,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/branch-Change-On-Aws.md",
+                "file": "AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/branch-Change-On-Aws.md",
+                "file": "AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/branch-Change-On-Aws.md"
+                "file": "AWS.md"
               }
             }
           },
@@ -196,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 881.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,12 +201,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dff81846ff81c01",
+  "active": "304d06c8764c4e96",
   "lastOpenFiles": [
+    "docs/navigating-aws-enviroments.md",
+    "AWS.md",
+    "docs/branch-Change-On-Aws.md",
     "docs/Brightmile-Staging-Trusted-Key.md",
     "docs/connecting-To-Docker-Db.md",
     "docs/Db-Migrate.md",
-    "docs/navigating-aws-enviroments.md",
     "docs/saml.md",
     "docs/uat.md",
     "docs/staging.md",
@@ -232,7 +227,6 @@
     "testing/Testing/2.6.3 - 2.6.4.md",
     "testing/cypress/spec-Requirements.md",
     "testing/cypress/Cypress-Ultra-portal-Integration.md",
-    "docs/branch-Change-On-Aws.md",
     "testing/importer/importer-Testing.md",
     "testing/importer/tco-Importing.md",
     "testing/feature-testing/UP-2963-unique-import-codes.md",

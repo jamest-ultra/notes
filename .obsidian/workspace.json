@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3bf047022cd27571",
+        "id": "6cf535168fc19b83",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f399bb868201d3",
+            "id": "24d697d71a224e61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "docs/Brightmile-Staging-Trusted-Key.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42ae9ba0c1a65c4d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,45 +83,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2dec6abd644fda07",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aba5b8291417501f",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "304d06c8764c4e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee98560d9e7a6897",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "53223e00ad172abe",
         "type": "tabs",
         "children": [
@@ -143,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Brightmile-Staging-Trusted-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Brightmile-Staging-Trusted-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Brightmile-Staging-Trusted-Key.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 881.5
+    "width": 378.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,8 +157,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42ae9ba0c1a65c4d",
+  "active": "24d697d71a224e61",
   "lastOpenFiles": [
+    "AWS.md",
+    "docs/Brightmile-Staging-Trusted-Key.md",
+    "docs/branch-Change-On-Aws.md",
+    "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",
+    "public/images/Pasted image 20230728142116.png",
+    "public/images/Pasted image 20230728133726.png",
+    "testing/cypress/Cypress-Ultra-portal-Integration.md",
+    "testing/cypress/spec-Requirements.md",
+    "testing/importer/tco-fuel-inventory-report-testing.canvas",
+    "testing/importer/inventory-Importing.md",
+    "testing/importer/importer-Testing.md",
     "docs/Db-Migrate.md",
     "docs/navigating-aws-enviroments.md",
     "docs/saml.md",
@@ -221,11 +177,6 @@
     "docs/WSL2-Disk-Space-Scan.md",
     "docs/uat.md",
     "meetings/2023-08-02-Lkq-Meeting.md",
-    "testing/cypress/Cypress-Ultra-portal-Integration.md",
-    "testing/cypress/spec-Requirements.md",
-    "AWS.md",
-    "docs/branch-Change-On-Aws.md",
-    "docs/Brightmile-Staging-Trusted-Key.md",
     "docs/connecting-To-Docker-Db.md",
     "docs/staging.md",
     "meetings/2023-08-02-Northgate-Deployment.md",
@@ -234,13 +185,9 @@
     "public/templates/main-Template.md",
     "testing/importer/fuel-Importing.md",
     "testing/importer/importer.md",
-    "testing/importer/inventory-Importing.md",
-    "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "testing/Testing/Allocations and currents testing.md",
     "testing/Testing/2.6.3 - 2.6.4.md",
-    "testing/importer/importer-Testing.md",
     "testing/importer/tco-Importing.md",
-    "testing/feature-testing/UP-2963-unique-import-codes.md",
     "docs/local/Untitled.canvas",
     "textgenerator/prompts/trash/default",
     "textgenerator/prompts/trash",
@@ -253,8 +200,6 @@
     "docs/staging",
     "docs/local",
     "Untitled.canvas",
-    "public/images/Pasted image 20230728142116.png",
-    "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 1.png",
     "public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_53_17.png",
     "ultraportal/docs/Untitled.canvas",
     "ultraportal/public/images/Pasted image 20230728133656.png",
@@ -262,7 +207,6 @@
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 2.png",
     "ultraportal/public/images/screencapture-staging-ultraportal-co-uk-secure-dashboard-2023-07-28-15_00_41 3.png",
-    "public/images/Pasted image 20230728133726.png",
     "ultraportal/Untitled.canvas"
   ]
 }

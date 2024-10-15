@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/branch-Change-On-Aws.md",
+                "file": "docs/Brightmile-Staging-Trusted-Key.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "42ae9ba0c1a65c4d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS.md",
+                "file": "docs/Brightmile-Staging-Trusted-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS.md",
+                "file": "docs/Brightmile-Staging-Trusted-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS.md"
+                "file": "docs/Brightmile-Staging-Trusted-Key.md"
               }
             }
           },
@@ -201,21 +212,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "304d06c8764c4e96",
+  "active": "42ae9ba0c1a65c4d",
   "lastOpenFiles": [
+    "docs/Db-Migrate.md",
     "docs/navigating-aws-enviroments.md",
+    "docs/saml.md",
+    "docs/team-Details.md",
+    "docs/WSL2-Disk-Space-Scan.md",
+    "docs/uat.md",
+    "meetings/2023-08-02-Lkq-Meeting.md",
+    "testing/cypress/Cypress-Ultra-portal-Integration.md",
+    "testing/cypress/spec-Requirements.md",
     "AWS.md",
     "docs/branch-Change-On-Aws.md",
     "docs/Brightmile-Staging-Trusted-Key.md",
     "docs/connecting-To-Docker-Db.md",
-    "docs/Db-Migrate.md",
-    "docs/saml.md",
-    "docs/uat.md",
     "docs/staging.md",
-    "docs/team-Details.md",
-    "docs/WSL2-Disk-Space-Scan.md",
     "meetings/2023-08-02-Northgate-Deployment.md",
-    "meetings/2023-08-02-Lkq-Meeting.md",
     "meetings/2023-11-09-lkq-total-cose-of-ownership.md",
     "public/templates/jira-Testing-Template.md",
     "public/templates/main-Template.md",
@@ -225,8 +238,6 @@
     "testing/importer/tco-fuel-inventory-report-testing.canvas",
     "testing/Testing/Allocations and currents testing.md",
     "testing/Testing/2.6.3 - 2.6.4.md",
-    "testing/cypress/spec-Requirements.md",
-    "testing/cypress/Cypress-Ultra-portal-Integration.md",
     "testing/importer/importer-Testing.md",
     "testing/importer/tco-Importing.md",
     "testing/feature-testing/UP-2963-unique-import-codes.md",

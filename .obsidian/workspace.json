@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c70ed6f673ae329",
+        "id": "00d1262eb68ce4c3",
         "type": "tabs",
         "children": [
           {
-            "id": "f1edba7214b8bbc1",
+            "id": "d87e3a2de5dd6386",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Upgrading staging to the latest build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Upgrading staging to the latest build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Upgrading staging to the latest build.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,6 +135,26 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "63e50043d67e8ad4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7cfa15c6925b5852",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           }
@@ -158,8 +175,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a013d129264fc18",
+  "active": "dd216f8706da75e6",
   "lastOpenFiles": [
+    "Supervisor ctl.md",
+    "How to run unit testing.md",
+    "Languages process.md",
+    "Modifying tenant theme.md",
     "Upgrading staging to the latest build.md",
     "AWS.md",
     "docs/WSL2-Disk-Space-Scan.md",
@@ -186,10 +207,6 @@
     "public/images/Pasted image 20230728142116.png",
     "public/images/Pasted image 20230728133726.png",
     "meetings/2023-08-02-Lkq-Meeting.md",
-    "meetings/2023-08-02-Northgate-Deployment.md",
-    "meetings/2023-11-09-lkq-total-cose-of-ownership.md",
-    "public/templates/jira-Testing-Template.md",
-    "public/templates/main-Template.md",
     "docs/local/Untitled.canvas",
     "textgenerator/prompts/trash/default",
     "textgenerator/prompts/trash",

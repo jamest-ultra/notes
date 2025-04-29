@@ -34,7 +34,7 @@ Meeting - 29th August 2025
 
 ### How are we going to document this?
 
--
+- Speak to Andy
 
 ### Plan moving forward
 

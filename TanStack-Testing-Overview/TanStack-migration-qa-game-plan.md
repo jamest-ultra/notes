@@ -41,3 +41,8 @@ Meeting - 29th August 2025
 Go through and define all the table rules for each table and document.
 Outline the documentation for each page
 Go through and compare each table and document the differences.
+
+### Action Items
+- James: Define rules for the user and admin tables.
+- James: Draft initial documentation template.
+- James: Speak to Andy about documentation format.

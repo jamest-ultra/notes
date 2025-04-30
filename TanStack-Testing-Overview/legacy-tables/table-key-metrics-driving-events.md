@@ -11,7 +11,7 @@
 
 | Property              | Description / Value                                                  |
 |-----------------------|----------------------------------------------------------------------|
-| **Data Source**       | Local Storage                                                        |
+| **Data Source**       | Rest API                                                        |
 | **Pagination**        | Client-side (10 rows per page, paginator at bottom)                  |
 | **Default Sorting**   | Yes — sorted by Date (descending)                                    |
 | **Filtering**         | No                                                                   |

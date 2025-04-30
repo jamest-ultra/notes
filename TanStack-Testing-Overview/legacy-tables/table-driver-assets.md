@@ -3,7 +3,7 @@
 ## Page / Context
 **Page:** [/standard#/report/manager/summary/driver/tree]
 **Status:** Phase 1
-**Table ID:** []
+**Table Id:** [Id of the table]
 
 ---
 
@@ -11,7 +11,7 @@
 
 | Property             | Description / Value |
 |----------------------|---------------------|
-| **Data Source**      | local state |
+| **Data Source**      | Rest API |
 | **Pagination**       | Client-side |
 | **Default Sorting**  | Yes - Name |
 | **Filtering**        | Per column |

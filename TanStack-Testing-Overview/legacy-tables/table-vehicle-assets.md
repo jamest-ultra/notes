@@ -11,7 +11,7 @@
 
 | Property             | Description / Value |
 |----------------------|---------------------|
-| **Data Source**      | Backend |
+| **Data Source**      | Rest API |
 | **Pagination**       | Client-side (pagination shown: 10 per page out of 21 total) |
 | **Default Sorting**  | Yes — By VRN (Vehicle Reg Number) ascending |
 | **Filtering**        | Yes — Per-column filters (VRN, Make, Model, First Name, Last Name, Group) |

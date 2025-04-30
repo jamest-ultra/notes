@@ -11,7 +11,7 @@
 
 | Property             | Description / Value |
 |----------------------|---------------------|
-| **Data Source**      | Local Storage |
+| **Data Source**      | Rest API |
 | **Pagination**       | Client-side |
 | **Default Sorting**  | Yes — Speeding Score ascending |
 | **Filtering**        | None visible |

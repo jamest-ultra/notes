@@ -11,7 +11,7 @@
 
 | Property              | Description / Value                                                                 |
 |-----------------------|--------------------------------------------------------------------------------------|
-| **Data Source**       | local storage |
+| **Data Source**       | Rest API |
 | **Pagination**        | Client-side |
 | **Default Sorting**   | Yes — sorted by Name (ascending)                                                    |
 | **Filtering**         | Toggle-based filtering by data type (Telemetry, Licence, Incident) — not per column |

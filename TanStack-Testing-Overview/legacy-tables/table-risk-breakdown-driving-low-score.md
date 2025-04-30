@@ -11,7 +11,7 @@
 
 | Property             | Description / Value |
 |----------------------|---------------------|
-| **Data Source**      | Local state |
+| **Data Source**      | Rest API state |
 | **Pagination**       | Client-side |
 | **Default Sorting**  | Yes — Driving Score ascending |
 | **Filtering**        | None visible |

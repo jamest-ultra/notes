@@ -11,7 +11,7 @@
 
 | Property             | Description / Value |
 |----------------------|---------------------|
-| **Data Source**      | Backend API with telematics data |
+| **Data Source**      | Rest API |
 | **Pagination**       | Client-side (pagination controls shown: 10 per page) |
 | **Default Sorting**  | Yes — Driving Time descending |
 | **Filtering**        | None |

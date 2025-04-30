@@ -11,7 +11,7 @@
 
 | Property             | Description / Value |
 |----------------------|---------------------|
-| **Data Source**      | Backend |
+| **Data Source**      | Rest API |
 | **Pagination**       | Client-side |
 | **Default Sorting**  | Yes — Group Name ascending |
 | **Filtering**        | Yes — Filters for Period, Vehicle Types, Funding, Currency (GBP) |

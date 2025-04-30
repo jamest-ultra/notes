@@ -11,7 +11,7 @@
 
 | Property             | Description / Value |
 |----------------------|---------------------|
-| **Data Source**      | local state |
+| **Data Source**      | Rest API state |
 | **Pagination**       | Client-side |
 | **Default Sorting**  | Yes — Date descending |
 | **Filtering**        | None visible |

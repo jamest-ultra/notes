@@ -11,7 +11,7 @@
 
 | Property              | Description / Value                                                |
 |-----------------------|--------------------------------------------------------------------|
-| **Data Source**       | Local Storage                                                      |
+| **Data Source**       | Rest API                                                      |
 | **Pagination**        | Client-side (visible page selector and row limit dropdown)         |
 | **Default Sorting**   | Yes — sorted by **Date** (descending)                              |
 | **Filtering**         | No visible global or per-column filtering                          |

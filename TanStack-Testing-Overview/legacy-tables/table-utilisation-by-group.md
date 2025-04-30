@@ -11,7 +11,7 @@
 
 | Property             | Description / Value |
 |----------------------|---------------------|
-| **Data Source**      | Vehicle telematics and usage data via REST API |
+| **Data Source**      | Rest API |
 | **Pagination**       | Client-side (all 4 groups shown) |
 | **Default Sorting**  | Yes — Group name ascending |
 | **Filtering**        | Not visible here; may be global page filters (e.g. by period) |

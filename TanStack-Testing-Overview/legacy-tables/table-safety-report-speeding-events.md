@@ -11,7 +11,7 @@
 
 | Property             | Description / Value |
 |----------------------|---------------------|
-| **Data Source**      | Backend |
+| **Data Source**      | Rest API |
 | **Pagination**       | Client-side (pagination present: 10 per page) |
 | **Default Sorting**  | Yes — Events descending |
 | **Filtering**        | None shown |

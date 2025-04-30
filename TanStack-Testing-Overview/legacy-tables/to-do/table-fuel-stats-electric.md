@@ -27,13 +27,13 @@
 ## Column Definitions
 
 | Column Label    | Document key     | Type     | Sortable | Filterable | Notes                                        |
-|------------------|------------------|----------|----------|------------|----------------------------------------------|
-| LICENCE PLATE    | licence_plate    | Text     | Yes      | No         | Vehicle registration number                  |
-| TRANSACTIONS     | transactions     | Number   | Yes      | No         | Able to drip into the transactions           |
-| LITRES           | litres           | Number   | Yes      | No         | Fuel dispensed (L)                           |
-| KWH              | kwh              | Number   | Yes      | No         | Energy equivalent (if EV hybrid)             |
-| KG               | kg               | Number   | Yes      | No         | Likely CO₂ equivalent weight                 |
-| COST             | cost             | Currency | Yes      | No         | Monetary cost — shown as “-”                 |
+|-----------------|------------------|----------|----------|------------|----------------------------------------------|
+| LICENCE PLATE   |                  | Text     | Yes      | No         | Vehicle registration number                  |
+| TRANSACTIONS    |                  | Number   | Yes      | No         | Able to drip into the transactions           |
+| LITRES          |                  | Number   | Yes      | No         | Fuel dispensed (L)                           |
+| KWH             |                  | Number   | Yes      | No         | Energy equivalent (if EV hybrid)             |
+| KG              |                  | Number   | Yes      | No         | Likely CO₂ equivalent weight                 |
+| COST            |                  | Currency | Yes      | No         | Monetary cost — shown as “-”                 |
 
 ---
 

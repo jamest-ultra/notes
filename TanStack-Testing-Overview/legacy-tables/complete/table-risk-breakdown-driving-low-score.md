@@ -3,7 +3,7 @@
 ## Page / Context
 **Page:** [/standard#/report/manager/summary/risk]
 **Status:** Phase 1
-**Table Id:** [Id of the table]
+**Table Id:** [risk_high_driving_score_entity_count]
 
 ---
 
@@ -28,28 +28,28 @@
 
 | Column Label    | Document key     | Type     | Sortable | Filterable | Notes                                      |
 |-----------------|------------------|----------|----------|------------|--------------------------------------------|
-| DRIVER NAME     |                  | Text     | Yes      | No         | Clickable link to driver profile           |
-| GROUP           |                  | Text     | Yes      | No         | Represents a location or region            |
-| DRIVING EVENTS  |                  | Number   | Yes      | No         | Count of logged driving-related events     |
-| DRIVING SCORE   |                  | Number   | Yes      | No         | Score out of 10, includes red warning icon |
+| DRIVER NAME     | tds_entity_name  | Text     | Yes      | No         | Clickable link to driver profile           |
+| GROUP           | tds_group_name   | Text     | Yes      | No         | Represents a location or region            |
+| DRIVING EVENTS  | driving_events   | Number   | Yes      | No         | Count of logged driving-related events     |
+| DRIVING SCORE   | driving_score    | Number   | Yes      | No         | Score out of 10, includes red warning icon |
 
 ---
 
 ## Testing Checklist (Tan-stack Migration)
 
-- [ ] All expected columns are present
-- [ ] Column order and labels match legacy table
-- [ ] Sorting works as before
-- [ ] Filtering behaves as before (types, logic)
-- [ ] Pagination works the same way
-- [ ] Global and column search matches behaviour
+- [x] All expected columns are present
+- [x] Column order and labels match legacy table
+- [x] Sorting works as before
+- [x] Filtering behaves as before (types, logic)
+- [x] Pagination works the same way
+- [x] Global and column search matches behaviour
 - [ ] Custom renders look/function correctly
-- [ ] Tool-tip text is correct
-- [ ] Styling and layout is consistent with legacy
-- [ ] Table is responsive and mobile-compatible
-- [ ] Loading, error, and empty states work properly
-- [ ] Accessibility (keyboard, ARIA roles) is preserved
-- [ ] Performance is acceptable for large datasets
+- [x] Tool-tip text is correct
+- [x] Styling and layout is consistent with legacy
+- [x] Table is responsive and mobile-compatible
+- [x] Loading, error, and empty states work properly
+- [x] Accessibility (keyboard, ARIA roles) is preserved
+- [x] Performance is acceptable for large datasets
 
 ---
 

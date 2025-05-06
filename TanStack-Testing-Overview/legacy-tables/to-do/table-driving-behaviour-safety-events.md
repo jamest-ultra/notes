@@ -3,7 +3,7 @@
 ## Page / Context
 **Page:** [/standard#/report/manager/summary/telemetry]
 **Status:** Phase 1
-**Table Id:** [Id of the table]
+**Table Id:** [events-safety]
 
 ---
 
@@ -26,11 +26,11 @@
 
 ## Column Definitions
 
-| Column Label   | Document key | Type (Text, Number, Date…) | Sortable | Filterable | Notes |
-|----------------|--------------|----------------------------|----------|------------|-------|
-|Name            |              |Text                        |true      |false       |       |
-|Events          |              |Number                      |true      |false       |This number would change depending on the unit used |
-|Per 1,000 Miles |              |Number                      |true      |false       |This should update to 1,000 Km when unit changes |
+| Column Label   | Document key    | Type (Text, Number, Date…) | Sortable | Filterable | Notes |
+|----------------|-----------------|----------------------------|----------|------------|-------|
+|Name            | tds_entity_name |Text                        |true      |false       |       |
+|Events          |                 |Number                      |true      |false       |This number would change depending on the unit used |
+|Per 1,000 Miles |                 |Number                      |true      |false       |This should update to 1,000 Km when unit changes |
 
 ---
 
@@ -54,4 +54,5 @@
 
 ## Notes / Known Issues
 
-Add any relevant notes or known bugs here.
+- The first column is called Group - In the legacy table it was called Name
+- PER 1,000 miles/Km has been renamed to Safety events per 1,000

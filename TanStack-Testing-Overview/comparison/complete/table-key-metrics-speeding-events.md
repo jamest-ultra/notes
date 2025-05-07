@@ -58,3 +58,4 @@
 ## Notes / Known Issues
 
 - Icon is different
+- Table looks good but theres two tables renderd

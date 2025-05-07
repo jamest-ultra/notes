@@ -57,4 +57,4 @@
 
 ## Notes / Known Issues
 
-- Table looks good but theres two of them
+- Table looks good but theres two tables renderd
